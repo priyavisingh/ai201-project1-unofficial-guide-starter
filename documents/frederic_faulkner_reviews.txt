@@ -1,0 +1,164 @@
+Source: Coursicle — https://www.coursicle.com/gatech/professors/Frederic+Faulkner/
+Professor: Frederic Faulkner
+Department: College of Computing
+Coursicle Rating: 95/100
+Courses: CS 1331, CS 1332, CS 1371, CS 2050, CS 3510, CS 4510
+
+Review — CS 1332 (First-year, CS, 6 months ago):
+Professor Faulkner is an excellent professor. His lectures are clear, well-paced, and easy to follow with annotated OneNote slides. If you pay attention and use the provided pseudocode, getting an A is very doable. Exams are fair and similar to the practice exams. There is also a lot of extra credit and a final exemption option.
+
+Review — CS 1332 (Graduate, MSE, 6 months ago):
+Pretty good professor but definitely overglazed on Coursicle. Lectures are not very good for actually learning, but are decent for reinforcing prior knowledge.
+
+Review — CS 1332 (Senior, FI, 11 months ago):
+One thing I'll add to Professor Faulkner's list of compliments is how well he introduces ideas. He explains what situation you'd find yourself needing a data structure or algorithm before even teaching it- and this made understanding everything so much easier. He's a great professor.
+
+Review — CS 1332 (Sophomore, CS, 4 months ago):
+The best lecturer I have had. The class consists of mostly of homework and tests. Highly recommend using office hours, all the TAs were very good.
+
+Review — CS 1332 (Sophomore, ME, 4 months ago):
+I love the way 1332 is structured. Never went to class because he recorded and uploaded the videos. Generally love the way he teaches as well as Mary's video, and I love how you can exempt the final!
+
+Review — CS 1332 (Sophomore, MATH, 5 months ago):
+lectures are pretty heavy in material. homeworks take a long time .tests focus on the stuff you see in lectures and practice tests are also helpful.he explains content well, but its sometimes hard to recall the giant amount of information he dumps in previous lectures. pay attention and review often
+
+Review — CS 1332 (Sophomore, CS, 5 months ago):
+Clear lectures, lots of material, and tests that align to the course content. Homeworks take time but there's a lot of resources online and in the lecture to help with that.
+
+Review — CS 1332 (Senior, ECE, 5 months ago):
+Faulkner is a GOAT professor. In terms of learning from lectures, his lectures are far easier to follow than HB's, as he keeps things at a moderate pace with annotated notes on OneNote. He always keeps things straightforward, and if you pay attention in class, it is p easy to get an A if you also use the pseudocode they provide in course materials.
+
+Review — CS 1332 (Junior, CEE, 5 months ago):
+1332 itself is a very straightforward class, and Professor Faulker's lectures were easy to follow and understand-- most of the time I didn't require any review after paying full attention in class. He does speak really fast so if you plan on watching recordings, you'll most likely need to keep it at the normal speed.
+
+Review — CS 1332 (Sophomore, CS, 5 months ago):
+My glorious king
+
+Review — CS 1332 (First-year, CS, 5 months ago):
+Great lecturer, not really too keen on speaking to students personally but he explains concepts insanely well from the ground up. Would recommend!
+
+Review — CS 1332 (First-year, AE, 5 months ago):
+Literal goat professor. Explained topics so clearly. Exams were very fair and similar to the practice exams, and there is a bunch of extra credit. You can exempt the final too. One thing I recommend is to take the hybrid version because they get recorded lecture videos which are up for a week, and can still attend lectures if you wish.
+
+Review — CS 1332 (Sophomore, CS, 5 months ago):
+Very solid professor for 1332. Take if possible
+
+Review — CS 1332 (Junior, CS, 6 months ago):
+Best 1332 prof. Clear expectations and grading criteria, lots of extra credit and you can exempt the final.
+
+Review — CS 1332 (Sophomore, ME, 6 months ago):
+Faulkner is the GOAT. Lectures are extremely well done and informative, and there are videos on canvas if you don't attend. Tests were very fair and you can exempt the final if you do well on them. Homework is manageable, especially with the help of CSVistool. Overall, definitely take 1332 with Faulkner.
+
+Review — CS 1332 (Junior, ME, 6 months ago):
+Great guy, great professor, great course. I will say lectures lowkey take too long though just watch Prof MHB's module videos on canvas, they explain a full week's information in like 20 minutes. But nonetheless lectures are pretty good for understanding. Try to exempt the final cos it's worth it, exam 1,2,3 are pretty easy imo
+
+Review — CS 1332 (Sophomore, CS, 6 months ago):
+Very good lecturer, really knows his stuff. However, he speaks extremely fast. So, I would learn the content before coming into class and then understand while he speaks rather than taking notes. Tests are standardized. Can watch MHB videos as review after going to Faulkner lecture. Very nice guy and good teacher. Also, he posts lecture videos.
+
+Review — CS 1332 (First-year, CS, 6 months ago):
+He's an amazing lecturer, he is quite funny at times, and to be honest he seems really chill. But the thing is that this class is hard, and you're gonna need to put time into it outside, I'd say study for this class everyday for 45 mins to an hour, especially if you don't understand the content in lecture. Also practice alot with the given practice
+
+Review — CS 1332 (Junior, CS, 6 months ago):
+Amazing lectures that go well with the HW's and exams. You will understand so much about every data structure and algorithm after this class. Also they added demos this semester which were alright just a little stressful under time pressure.
+
+Review — CS 1332 (Sophomore, ISYE, 6 months ago):
+1. Extremely knowledgeable TA's who are of great help. 2. Great lecturer- love the real life examples. 3. Easy homework that aids your learning a lot (dont GPT it!). 4. Structure of the class is smart and fun. 5. Exams are tough. Great class! He organizes everything very well and you truly get out what you put into it. I would take any class w/ him.
+
+Review — CS 1332 (Sophomore, CS, 6 months ago):
+Lots of cheating and giving away exam questions. His TAs definitely write some of these reviews to make them look better
+
+Review — CS 1332 (First-year, CS, 7 months ago):
+Overall great lectures that are to the point. Explains things well and clearly. Uses OneNote instead of a PPT, which is so much better IMO. I hate lecturers that just use slides.
+
+Review — CS 1332 (Sophomore, CS, 7 months ago):
+Phenomenal lecturer overall; engaging and funny at times but knows how to explain the concepts of the class really well. I took a hybrid section so I went to lecture in-person one day and watched a recording the other way, both of which were high quality (eventually, I just went to both in-person sections though, since attendance isn't checked).
+
+Review — CS 1332 (Senior, CS, 1 year ago):
+Honestly I feel like most of these reviews are written by his TAs. He's a good lecturer and understands the material. But his handwriting is SO BAD. Entirely illegible if you want to review his notes. The exams also feel really shoddy and like they want to make hard questions just because they can
+
+Review — CS 1332 (First-year, ME, 2 years ago):
+I love this man. I've taken him for 2050, 1332, and will this summer for 3510, and I thank all the gods there may be that I'm going to be able to take him for that class.
+
+Review — CS 1332 (Junior, CS, 3 years ago):
+Faulkner is a good lecturer, but I don't really get the hype for him. Lectures are a bit mundane and his handwriting is borderline unintelligible. He teaches the topics very well though and is a very caring person. Tests aren't too difficult, but you are not given enough time. Def time yourself when you practice for exams. HW is boring but fine.
+
+Review — CS 1332 (First-year, CS, 6 months ago):
+Extremely good at teaching material, watching his recording + doing practice exams should be enough to do well on exams.
+
+Review — CS 1332 (Sophomore, CS, 6 months ago):
+Fun class overall, the difficulty does increase over the semester. Make sure to take advantage of the early tests, as the later ones become harder and harder. He's very good at teaching as he explains almost every concept and goes through examples.
+
+Review — CS 1332 (Sophomore, NEUR, 10 months ago):
+Great prof, very structured, well made lectures. Always does examples and answers questions well. You can skip the final if you do well on the midterms too!
+
+Review — CS 1332 (First-year, CS, 10 months ago):
+Go to his lectures if you can!! His explanations of data structures and process for tracing are straightforward and clear. The weekly homework makes you write up the data structures you're learning which is a bit of work but really helps with understanding
+
+Review — CS 1332 (Sophomore, CS, 1 year ago):
+good teacher; difficult class (at least for me).
+
+Review — CS 1332 (Sophomore, Undecided, 1 year ago):
+This review is more for the course rather than the professor. This class can be very unfair since students have friends from past semesters who give them their exams. I also heard about another csvistool version students used which had prior exam questions on it. There is a lot of cheating that this teaching staff is unaware about.
+
+Review — CS 1332 (First-year, CS, 1 year ago):
+This man is the goat. Easy to understand class and funny at times. Will take his class again in the future.
+
+Review — CS 1332 (Sophomore, CS, 1 year ago):
+He may not have any emotions, but I feel for him. Frederic is an advanced specimen with interesting qualities
+
+Review — CS 2050 (Senior, CS, 1 year ago):
+Not bad
+
+Review — CS 2050 (Junior, BMED, 2 years ago):
+Faulkner truly has a gift for lecturing. He's able to teach at a quick pace without glossing over important details. He's great at explaining the "Why?" part of material and is great at condensing information as well. He explains his reasoning very thoroughly in his notes, so you can learn the content well even if you didn't go to class.
+
+Review — CS 1332 (Sophomore, CS, 2 years ago):
+Faulkner is amazing. He speaks very clearly and down-to-earth. The course itself is structured very well and Faulkner does a great job teaching the content. Would definitely recommend for any class he teaches!
+
+Review — CS 1332 (Sophomore, CS, 2 years ago):
+Amazing professor! His lectures made the concepts easy to understand and were very engaging. Not a super difficult class if you stay caught up with material and take advantage of resources.
+
+Review — CS 1332 (Sophomore, ME, 2 years ago):
+Faulkner's lectures are very straightforward, easy to understand, and I personally thought he had the perfect pace to prevent students from getting bored. He is extremely knowledgeable and clearly knows what he's doing (unlike some professors at this school). Quite possibly the best CS professor I've had. WE LOVE YOU PROFESSOR FAULKNER
+
+Review — CS 1332 (Senior, CS, 2 years ago):
+Knows what hes teaching and very knowledgable. Final exemption is also a big plus. Knew the material and taught it in a way where I didnt have to do any outside studying to understand it. Very good professor would def take again
+
+Review — CS 1332 (Junior, CS, 2 years ago):
+absolutely fantastic! i was technically in the online section, but went to his lectures every day because it was the only way i could grasp the topics. he does plenty of examples, explains difficult topics in a way that makes them easier to comprehend, and knows how to link concepts together. this is my first A in a GT CS course because of him!
+
+Review — CS 1332 (Sophomore, CS, 2 years ago):
+There is a bountiful amount of tools, resources, and practice that is provided for this course. However, the resources and practice can be attributed to previous professors. This professor is great in that he is understanding towards his students and gave me strong advice when I wasn't sure if I could pass this course or not.
+
+Review — CS 1332 (Sophomore, CS, 3 years ago):
+Goatner
+
+Review — CS 1332 (First-year, CS, 3 years ago):
+Probably one of the best professors I've had. Very calm, lectures are great, and he's so good at explaining things. You're always engaged during lecture. Tests and homework were reasonable (though I do have to note that test 2 was quite brutal). Only problem is that he has bad handwriting on OneNote, but he's great overall.
+
+Review — CS 3510 (First-year, NEUR, 3 years ago):
+This man is the epitome of a civil servant.
+
+Review — CS 3510 (Sophomore, CS, 3 years ago):
+I LOVED THIS CLASS. Faulkner is an amazing teacher. Very patient and caring about students. TAs wrote amazing notes that helped describe the class. Hopefully he teaches 4510 again so I can take it with him
+
+Review — CS 4510 (Junior, CS, 3 years ago):
+Faulkner's 4510 was definitely a lot of work for me. I depended on weekly office hours and attended every lecture. However, that work paid off. At first I was a little lost, but with consistent effort and help, things clicked. I learned how to think and learn differently. Honestly, Faulkner restored my love of computer science.
+
+Review — CS 1332 (Senior, CS, 1 year ago):
+great prof, good lectures, insanely difficult tests, make sure your study for them
+
+Review — CS 1332 (Sophomore, ECE, 1 year ago):
+I don't usually rate professors, but Faulkner deserves this 5. He talks a little fast in his lectures, but he somehow manages to explain everything clearly. I never struggled with any of the homeworks or exams, and all I relied on was his lectures and CSVisTool. This is coming from someone whose only prior coding knowledge is CS 1301 and 1331.
+
+Review — CS 1332 (Sophomore, CS, 1 year ago):
+Cool dude, lectures are mostly useless (at least for hybrid), make sure to utilize office hours. Pretty easy class as long as you utilize csvistool well.
+
+Review — CS 1332 (Junior, BIOL, 1 year ago):
+Faulkner's lectures are the best I've ever seen. He does a great job at giving you the intuition behind DSA to the point where it can sometimes feel like we're inventing it ourselves. He doesn't just tell you how things work, he makes you understand WHY they work that way and why it makes sense for them to be that way. HWs are fine, exams are fair
+
+Review — CS 1332 (Sophomore, CS, 1 year ago):
+Dr. Faulkner is nothing short of a genius. He teaches things by introducing the problem first, piquing your interest before showing you how the solution was devised. The class will give some difficulty, but even if you don't pay attention, he gives you every resource you need to succeed x100. You can't go wrong in this class—shoutouts to CSVistool!
+
+Review — CS 1332 (Sophomore, CS, 1 year ago):
+Faulkner is truly one of the best professors at Tech. He somehow finds a way to dissect a hard topic to make it understandable to the class. He can answer questions outside of class content and goes deep in a structured way into each topic. Gives lots of opportunities for the class to ask questions. Would definitely recommend taking him for CS1332!

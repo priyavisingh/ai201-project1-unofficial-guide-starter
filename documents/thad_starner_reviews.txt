@@ -1,0 +1,206 @@
+Source: Coursicle — https://www.coursicle.com/gatech/professors/Thad+Starner/
+Professor: Thad Starner
+Department: College of Computing
+Coursicle Rating: 32/100
+Courses: CS 3600, CS 4605, CS 6601, CS 7470
+
+Review — CS 3600 (Graduate, CS, 3 years ago):
+I respect Professor Starner for his research and intelligence; however, as an instructor, Thad is woefully inadequate. He gives the bare minimum in terms of content, the rest is self-taught. This class is the grad class, even after promises of change. Due to the poor structure of this class, I will walk out of this class learning nothing.
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+Thad, what a guy. What to say, so many things. Homeworks are extremely hard. For lectures, only go if you're interested in knowing Thad's career, and how cool his Google glasses are! Make sure if you do take this class, Dr. Mark Riedl is teaching. Thad should go back to industry jobs because his idea of teaching is disgusting. He makes me sick.
+
+Review — CS 3600 (Graduate, CS, 3 years ago):
+This class is not an undergrad class, so you are expected to do graduate-level work. Most grad students are taking 1 or 2 classes so they can balance the assignments while I'm having to neglect other classes. The prof doesn't do anything to acknowledge the unfairness of this and just mentions how this is applicable to Google interviews.
+
+Review — CS 3600 (Junior, CS, 3 years ago):
+Any spark of interest I had in AI was almost immediately snuffed out within the few weeks of Thad's class. This was the most demotivating and unenjoyable experience I've ever had with learning at Tech. The best thing about this class is that it made me incredibly grateful for my other classes, TAs, and professors this semester.
+
+Review — CS 3600 (Senior, CS, 3 years ago):
+Horrible professor. He got awful grading for midterm exams and hilarious regrade requests. If you would like to suffer, I would suggest you take Thad's class. It is endless torture. Also, his grading is so funny that even if you get a score above 90 for an exam/assignment, you still might get a B for that exam/assignment.
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+starner is extremely rude and egotistical, the TAs are essentially comedians, autograding is garbo and not at all proportional to the work you did (ie. some obscure useless search algorithm explores 0.8 more nodes on average than their optimal reference implementation and u get a 6/11)
+
+Review — CS 3600 (First-year, CS, 3 years ago):
+This is one of the worst classes I have ever seen, the professor thinks that everyone has the knowledge he learned as a PhD student and in industry for many years, he is rude to students that seek help. He does not teach and yet has insane homework assignments and has said he expects it to take us over 8 hr for midterms.
+
+Review — CS 3600 (Junior, CS, 3 years ago):
+Easily the worst class I haver ever taken. Thad cares more about his plagiarism AI than his students. Assignments are made to bait collaboration to feed into his plagiarism software.
+
+Review — CS 3600 (Senior, CS, 3 years ago):
+meanie
+
+Review — CS 3600 (Senior, CS, 3 years ago):
+Does not teach and has very long home works expert to spend over 20 hr per home work. Limited TA help and no external resources, has a god complex
+
+Review — CS 3600 (Junior, CS, 3 years ago):
+Unclear expectations on homework for undergrads, extremely difficult to find any help at all (either office hours or prof himself). Homeworks are unreasonably difficult to complete
+
+Review — CS 3600 (Graduate, ECE, 3 years ago):
+Flipped classroom is inherently stupid for multiple reasons, mainly being that you're using auxiliary materials to study. Also, if you want help with HW, office hours exist, the 8-9:15 thing is useless. Also why would you combine undergrad with grad classes? That's obviously a recipe for disaster
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+Actually the worst class I have ever taken. Have spent endless hours in this class and am still behind according to where he says we should be at. The course completely changed from previous years with no warning. Dont take Starners classes at all, ever.
+
+Review — CS 3600 (Sophomore, AE, 3 years ago):
+Great guy with poor teaching abilities. Over-applies expertise in his prestigious research to an undergraduate-level course. Hardly accessible with little sympathy for students.
+
+Review — CS 3600 (Senior, CS, 3 years ago):
+Dear Thad is the worst professor I have ever had. He had invested so little to improve the student experience. For example, you have to wait for several days to finally get to the TA Office hour, where we can get 10 min to talk to the TA about our hundreds of lines of code. Thus, we usually get nothing done in these 10 minutes.
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+The assignents are mad difficult. That's fine. BUT WE NEED THE RESOURCES TO BE ABLE TO COMPLETE THE ASSIGNMENT. WE CANNOT DO THE ASSN BY OURSELVES. The office hours are incredibly useless. The TAs have never done the assignments themselves so they don't know what they're talking about half the time. Ed questions are never answered w detail.
+
+Review — CS 3600 (Graduate, CS, 3 years ago):
+Terrible class. He expects you to dedicate every living fiber of your soul to his class, which is SURPRISINGLY not possible! Believe it or not, I do not have 30+ hours to spend to even get a B on the assignments/class. Pray to every God you know that you dont get this professor, and wait until this class changes. This class is a grad class BTW.
+
+Review — CS 3600 (Sophomore, ME, 3 years ago):
+This class is insane. The 'modules' trace through basic and easy examples of search algorithms (A*, UCS, BFS, etc) and then the homework assignments expect you to code bi-directional and tri-directional versions of those algorithms with no pseudocode or class slides. The only resource is the textbook which is incomplete. DO NOT TAKE THIS CLASS.
+
+Review — CS 3600 (Junior, CS, 3 years ago):
+TAs are laughably unhelpful or incompetent. Starner doesn't teach, you have to self learn the content yourself. Expect little to no help from them
+
+Review — CS 3600 (Graduate, CS, 3 years ago):
+Clearly, the only 5-star review below is complete cap and is obviously written by Starner. This class is actually the graduate section 6601. The course is obviously just a copy and paste from the grad class and the difficulty has not been lowered for undergrad. Have fun with this as the homework are impossible, and it is a flipped classroom!!!!!!!!
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+With a flipped lecture model, the class has become a total nightmare. There are over 900 students in the class so office hours are a complete joke when it comes to receiving help, and the first homework itself is insanely difficult.
+
+Review — CS 3600 (Graduate, ISYE, 3 years ago):
+This class is hell on earth. Complete chaos. Grad and undergrad classes are combined (CS6601). Lectures are completely useless especially since it's in flipped classroom format. All the learning is done by yourself reading through the textbook. The homeworks are literally impossible and take like 40 hours each. AVOID LIKE THE PLAGUE.
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+The lectures aren't even lectures so we basically have to rely on a gibberish textbook and 1 min video modules that teach AI using pen and paper like wut. FIRST HW is taking ppl 20+ hours. we get 2 weeks to do it, but 20+ hours is ridiculous when you have other tough courses plus extracurriculars plus daily life stuff you're trying to balance.
+
+Review — CS 3600 (Junior, CS, 3 years ago):
+How better can I sum up my experience in this class than by saying that you can expect 20+ hours of homework a week, and you'll have 0 resources to help you on that homework. You're expected to be able to apply complex AI algorithms with no other resources than a 2 minute skit of him describing the general idea. It's laughable.
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+While Starner is admittedly intelligent, he has no clue how to educate. He will give you a multivariate GMM homework with his only "lesson" being about 2 minutes long on the topic. He expects you to already know many AI and ML-specific terms, despite this being an introductory AI class. TAs genuinely try to ignore your Ed discussion posts.
+
+Review — CS 6601 (Graduate, CS, 3 years ago):
+The course, the professor, and the TAs are a joke. There is no guidance or support, the lectures are borderline useless, and the TAs... well, they are awful at their jobs. They are utterly useless. They do not help, and don't have the students best interest in mind. This course needs an overhaul, from top to bottom.
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+He changed the style of teaching this semester and it was bad. The assignments for undergrads are the same as masters students and in addition to that he also implemented the AI plagiarism detectors which are not at all properly made. It just gives additional avoidable stress to everyone.
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+Useless lectures and the homework are ridiculously long and taken straight from a masters class. Avoid him at all cost.
+
+Review — CS 3600 (Sophomore, ME, 3 years ago):
+Tbh, homeworks are as hard as GT should be. Thad Starner, however, is an awful teacher and the sole reason why students struggle. He gave us resources, but any useful info is scattered over hundreds of pages. A good teacher would not only provide resources, but explain/teach them. Starner makes 2-minute long comedy skits with no substance.
+
+Review — CS 3600 (Graduate, CS, 3 years ago):
+Professor Starner refuses to acknowledge that it is wrong to not tell students ahead of time that CS 3600 would be merged with CS 6601, a grad course for AI. Homework 1 is extremely long and the resources the professor gives are not helpful. He fails to understand that students cannot dedicate the time of a part-time job to one 3 credit class.
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+Worst course ever had ! ! ! Online office hour sucks ! ! ! Either the TA never shows up or you waited hours until the meeting was over and it still wasn't your turn. They teach you really easy concepts but expect you to figure out/ invent those insanely difficult algorithms on your own without accessing any external resources
+
+Review — CS 3600 (Junior, CS, 3 years ago):
+A lot of work on the assignment 1 (30+ hours), still failing. Professor seems to be able to shift his method of teaching but the pace is too slow. The workload is the same as the masters program while this is labeled as an undergraduate course. The amount of time required is not equivalent to the # of credits. I remain hopeful for change.
+
+Review — CS 3600 (Junior, CS, 3 years ago):
+Possibly the hardest class I have taken with a terrible professor. He doesn't explain what is to be done and expects work far beyond an undergraduate level. In fact, GT has combined this with 6601 or the graduate AI course. Please reorganize this course or don't have him teach it.
+
+Review — CS 3600 (Senior, CS, 3 years ago):
+I understand and appreciate his approach of the flipped classroom and trying to get a wider audience to engage with the material, but the execution is abysmal. This structure does not work for a class that is (a) very large (500+ students) and (b) combined grad/undergrad. Fix the assignments, fix the format, and get it together.
+
+Review — CS 3600 (Graduate, CS, 3 years ago):
+This class is impossibly difficult and we are combined with the graduate level section. Little to no resources available and the class is 100% taught by yourself.
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+I'm a CS minor and I spent about 15 hours doing the first few warm-up tasks. All the people I know in this class suffer a lot and we're not learning. Horribly-designed, don't take
+
+Review — CS 3600 (Senior, CS, 3 years ago):
+Don't take his class
+
+Review — CS 6601 (Graduate, CS, 3 years ago):
+changed to "flipped format" AKA he shows some laughable animations in class and you teach the whole course (the content is not trivial by any means) TO YOURSELF. Nothing is taught, and the (grad section) homeworks are unnecessarily annoying (work with annoying apis/tests, implement obscure algorithms without any references online). Horrible, garb
+
+Review — CS 3600 (Junior, CS, 3 years ago):
+Always feels like he's working against you: difficult/lengthy assignments, TA's don't know the material, exams/hw greatly differ from lectures. Pros: Receives criticism and feedback well- willing to help out (to an extent). Cons: Neurotic about his plagiarism research, cares more about catching cheaters than helping students understand the material
+
+Review — CS 3600 (First-year, CS, 3 years ago):
+Thad expects students to excel in a course where in lieu of teaching the material, he relies on either 1-minute module videos or lengthy, high-level papers. Students with a solid foundation in AI are rewarded with gift cards; undergraduates entering their first AI course are effectively on their own. Asymmetric workload for a 3-credit course.
+
+Review — CS 3600 (Graduate, CS, 3 years ago):
+Where to begin? No lectures, you'll have to read the textbook to learn everything. The assignments are insanely difficult, expect to spend 40+ hours per assignment (assignments are due 2 weeks after the release date). This course is the embodiment of everything wrong with OMSCS. Yeah, also grad and undergrad students are lumped together. Go figure.
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+This class has been rebranded into CS 6601. You have the same exact lectures and assignments as OMSCS. It has graduate-level assignments and expectations, yet is only a 3000-level undergraduate class. To get a 100 on an assignment you are expected to do research on the topic by yourself yet there is a STRICT plagiarism policy.
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+Prepare to have no life outside of this class. Extremely long homework that takes 40-plus hours to somewhat complete.
+
+Review — CS 3600 (Graduate, CS, 3 years ago):
+Thad may be a great innovator, but is unfit to teach an undergrad class. Bad organization led to a 100+ drop in enrollment in his flipped classroom (though I do enjoy the style of work encouraged). He made the course unreasonable by using his grad curriculum. Inactive staff & Thad's lack of self-awareness make this one of the worst courses at Tech.
+
+Review — CS 3600 (Junior, CS, 3 years ago):
+Starner has a god complex and expects everyone to be one the level that he thinks he is. Flipped classroom setting is abysmal and modules barely cover topics (zero mention of implementation), but homework requires deep knowledge (and 30 hours a week). Textbook hides information across hundreds of pages. Im getting slapped with my own tuition money
+
+Review — CS 3600 (Sophomore, MGT, 3 years ago):
+Unreasonable workload for intro course. In addition, taking points off for one single extra node explored for one test-case sucks. I have the good fortune of having lots of practice with coding in general, and even then, project 1 took forever to complete. I can imagine the pain for someon taking this their second semester without a CS foundation.
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+from an undergrad pov who has no experience whatsoever in the field of AI, this class so far has been outrageous, to say the least. spent crazy hours over the first hw with absolutely no help whatsoever (office hours system is a joke, no one replies on ED) and i have just been able to complete 30% after spending nearly 2 whole days.
+
+Review — CS 3600 (Senior, ECE, 3 years ago):
+No resources to help whatsoever. No lectures. Tough scenes
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+This revamp of 3600 took a medium difficulty class as an intro to AI and made it much harder with the exact same material as the graduate version without making any concessions on changing the grading scale until some time into the semester. I respect Thad for trying to increase the accessibility of CS 3600 but students had little to no resources.
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+If I'm gonna go to a class at 8pm I better learn. I'm not trynna be in a cesspool of nerds that did too many Rubik's in highschool on a wednesday night. Some people have real lives, unlike some of the "billionare grindset" ppl in the comments
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+TAs don't come to office hours & there is no shot the professor will respond to your emails. Not sure why there even needs to be a "teaching team"- just having graders and plagarism checkers will accomplish the same thing. I learned more about Thad's career than AI
+
+Review — CS 6601 (Graduate, CS, 3 years ago):
+Professor's lack of trust in students makes it hard to learn and feel supported. All assignments are auto-graded and when things fail it is very frustrating and feels impossible to try to figure out what went wrong and learn from it. TA hours were very unhelpful and often sent me on a wild goose chase when in reality it was a small unrelated error.
+
+Review — CS 4605 (Senior, CS, 6 months ago):
+Learned more about Thad than I did about ubiquitous computing. Like dude, we don't want to watch the Google glass ad 60 times. On a more serious note, this class will have you doing free labor for random labs.
+
+Review — CS 3600 (Senior, ME, 2 years ago):
+Starner is the WORST professor, teacher, whatever, that I have EVER had. From someone who attended most lectures, I can say that I learned more about him than AI, and I am VERY disappointed by how this class was ran. Unresponsive TAs, a terrible teacher, essentially pseudocode-translation homework, and a terrible introduction to AI. Big let down.
+
+Review — CS 3600 (Sophomore, CS, 3 years ago):
+Class is interesting and Thad is good guy. He will you out. All the projects are in LISP and are very time consuming. If you aren't experienced in LISP, you sure will be. Tests are long and difficult but open book/note. You will have a rock-solid grasp on the fundamentals of AI after this course.
+
+Review — CS 3600 (Senior, CS, 10 months ago):
+No grace, no compassion. Wouldn't recommend. Thinks his failed google glass is a gift to humanity.
+
+Review — CS 3600 (Sophomore, CS, 2 years ago):
+WORST PROFESSOR EVER. cared more about catching students cheating than teaching to the point that you could not google simple concepts or use textbook without being flagged - with no usable resources provided. was so full of himself and his lectures were recorded conversations rather than real lectures. did not care about us at all.
+
+Review — CS 3600 (Junior, MGT, 1 year ago):
+Threatens students to an extreme degree.
+
+Review — CS 3600 (Junior, CS, 1 year ago):
+What a joke.
+
+Review — CS 3600 (Junior, CS, 1 year ago):
+actual bafoon
+
+Review — CS 6601 (Graduate, CS, 1 year ago):
+The class is a great idea, but very poorly executed or taught. The videos that were made are helpful and the textbook is good, but this class really should be called Unsupervised Learning AI. There is a ton of supplementary reading material he gives you, but you just need to figure out how to teach yourself! I spent over 20+ hours per week.
+
+Review — CS 4605 (Senior, ME, 1 year ago):
+Lectures were pretty boring and monotonous. Almost no one in class would pay attention and everyone went on their laptops, but attendance wasn't mandatory anyways. Exercises were a little difficult and projects are a lot but the deliverables are reasonable.
+
+Review — CS 3600 (Junior, CS, 1 year ago):
+terrible guy, doesn't do anything
+
+Review — CS 3600 (Sophomore, CS, 2 years ago):
+Extremely knowledgeable professor but not very nice. Tests were surprisingly difficult. Projects were often pretty difficult and time consuming. Definitely start them very early. Plenty of extra credit was available. Between that and the projects being auto-graded, you could get an A pretty easily with enough time invested.
+
+Review — CS 3600 (Senior, CS, 2 years ago):
+Prof. Starner is a person who knows many things but doesn't know how to teach them properly to students. The lecture was mostly about him and not the materials. TAs are not very responsive and I don't think they know what they are doing. Most of the materials from this class were self-taught and it was the hardest class I've ever taken.
+
+Review — CS 3600 (Junior, CS, 2 years ago):
+I think Thad is just a bad lecturer or never prepares to teach this class.There were no issues with his assignments like last time since he just used Dr. Riedl / Berkekely's, but he is always late to class, always goes on tangents, barely teaches and always very dry. Could be worse, could be better.
+
+Review — CS 3600 (First-year, CS, 2 years ago):
+This semester the class was really easy, but I legitimately learned nothing in this class. I try and go to lectures but they can be so dry and boring. Also, he's always preaching about not teaching but every single assignment in this class is completely online and copied from berkeley.

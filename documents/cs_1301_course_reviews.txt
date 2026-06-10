@@ -1,0 +1,14 @@
+Source: Coursicle — https://www.coursicle.com/gatech/courses/CS/1301/
+Course: CS 1301 — Introduction to Computing
+Average Professor Rating: 66/100
+Credits: 3
+Description: Introduction to computing principles and programming practices with an emphasis on the design, construction and implementation of problem solutions use of software tools.
+
+Review — Melinda McDaniel (Sophomore, BIOL, 3 years ago):
+She's a nice lady but the lectures are way too easy for the homework. The homework are so hard and you definitely need to go to the help desk every week unless you just know coding ( I didn't). The practice tests are way easier than the actual tests which sucks. Have to go to class every day for 1-2 question mini quizzes that are for participation.
+
+Review — David Joyner (First-year, CEE, 3 years ago):
+This is perhaps the best class I've taken. You can go at your own pace, and you cannot receive less than a one hundred on any homework assignment unless you give up. You get multiple attempts on test questions, and you can submit coding problems as many times as you want before you get it right. This class is very easy and works to any schedule.
+
+Course notes:
+CS 1301 experience depends heavily on instructor. David Joyner's online sections are praised for flexibility and retry policies. Melinda McDaniel's sections have a gap between easy lectures and hard homework; students use the help desk frequently.

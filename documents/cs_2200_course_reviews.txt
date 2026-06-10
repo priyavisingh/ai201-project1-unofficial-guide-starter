@@ -1,0 +1,14 @@
+Source: Coursicle — https://www.coursicle.com/gatech/courses/CS/2200/
+Course: CS 2200 — Systems and Networks
+Average Professor Rating: 69/100
+Credits: 4
+Description: A broad exposure to computer system structure and networking including software abstractions in operating systems for orchestrating the usage of the computing resources.
+
+Review — Daniel Forsyth (Senior, CS, 6 months ago):
+We are only 4 days away from final exam, yet no information has been posted, no practice material, no topic list, nothing. We don't know our grades as almost nothing is graded on time. ED discussion posts are left unanswered. Overall, this class has been run very poorly this semester, and at this point I'm just glad it will be over in few days.
+
+Review — Jay Summet (First-year, CS, 3 years ago):
+Nightmare of a class. I think he lectured once the whole class after there was an uproar midway through the semester about him never teaching. Just clicker questions EVERY day. Since he doesn't lecture and the clickers are awful, you have to read like 400+ pages in the dry textbook. Worst class I've had at Tech.
+
+Course notes:
+CS 2200 is a core systems course. Instructor experience varies significantly. Jay Summet sections are criticized for minimal lecturing and heavy textbook reliance. Daniel Forsyth sections have been criticized for poor communication and delayed grading.

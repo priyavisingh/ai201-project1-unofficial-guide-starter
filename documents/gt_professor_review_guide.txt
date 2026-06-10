@@ -1,0 +1,22 @@
+Source: Georgia Tech student community guidance (College Confidential, Course Critique, Coursicle)
+Title: How Georgia Tech Students Evaluate Professors
+
+Georgia Tech students use multiple unofficial sources to choose professors and courses. Official course descriptions on Oscar do not reflect teaching style, exam difficulty, workload, or how helpful lectures actually are.
+
+Course Critique (https://critique.gatech.edu/):
+The SGA-maintained Course Critique platform shows grade distributions by instructor and course. Students use it to see how harshly a professor grades. A low average GPA in a section may indicate difficult exams or poor instruction, but grade distributions alone do not explain why.
+
+Coursicle and Rate My Professors:
+Students read qualitative reviews on Coursicle and Rate My Professors. Experts caution that anonymous review sites suffer from response bias — angry students post more than satisfied ones. Georgia Tech students are advised to read multiple reviews and look for consistent patterns rather than relying on a single numeric score.
+
+Reddit r/gatech:
+Current students discuss course selection, professor recommendations, and registration strategy on r/gatech. Parents on College Confidential note that active discussion happens on Reddit rather than older forums.
+
+Practical advice for CS majors:
+- For CS 1332, students frequently recommend Frederic Faulkner over instructors who read textbook slides.
+- For CS 1301, David Joyner's online format is popular for flexible pacing and homework retries.
+- For CS 3510, Konstantinos Dovrolis is known for very difficult exams with strict grading.
+- For CS 2200, instructor choice significantly affects whether students get lectures or must self-teach from the textbook.
+- Attend recitation and office hours when lecture quality is poor; TAs often carry the learning experience.
+
+When a professor has fewer than 10 reviews, treat ratings as unreliable. Look for repeated themes across at least 5-6 comments before deciding.

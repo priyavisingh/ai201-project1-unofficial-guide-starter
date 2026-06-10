@@ -1,0 +1,227 @@
+Source: Coursicle — https://www.coursicle.com/gatech/professors/Monica+Sweat/
+Professor: Monica Sweat
+Department: College of Computing
+Coursicle Rating: 75/100
+Courses: CS 1301, CS 1315, CS 1331, CS 1332, CS 2050, CS 4400
+
+Review — CS 1332 (Sophomore, ISYE, 3 years ago):
+She is an averagely decent person (sometimes rude, but tolerable) outside of class, but honestly a horrible lecturer. She doesn't even take the time to make her own lecture notes, and just uses the lecture power points made by the textbook authors. She regularly CANNOT answer hard questions, and then the TAs take over to explain concepts.
+
+Review — CS 1315 (Sophomore, ID, 3 years ago):
+Uninteresting & unhelpful lectures. Spends a decent amount of time rambling. The TA's are really helpful so you should get acquainted with them early in the semester. I received a sizable amount of help from friends that were CS majors. The lectures don't help with the homework, but the tests aren't that bad as long as you understand the material.
+
+Review — CS 1331 (First-year, INTA, 3 years ago):
+I had this teacher twice and both times her lectures proved to be less than helpful. They're not engaging and even the most dedicated student would have trouble paying attention let alone following along. The second exam I took for 1331 was from what I heard designed for a longer class which would explain why almost no one finished it.
+
+Review — CS 1332 (Sophomore, CS, 3 years ago):
+Absolutely incompetent; she has recently asked the head TA to lecture in her place because she does not have a solid grasp of the material. That said, she's extremely easy (as she usually writes her tests so that she can do them---which means they are laughably easy).
+
+Review — CS 2050 (Sophomore, CS, 3 years ago):
+Super funny instructor. Very knowledgeable as well. Explains concepts clearly and is always open for consultation. One of the best at the CoC! Grading is a bit harsh, so beware.
+
+Review — CS 4400 (Junior, CS, 3 years ago):
+Her class average has dropped from a 3.4 to 2.8 in recent years. I took this thinking it'd be relatively easy hearing it from an older year, but it's not. Make sure to go to class and do well on her quizzes. There are 4, 25 question multiple choice worth 60% of your grade. Go over old quizzes as well, she some times reuses questions.
+
+Review — CS 2050 (Sophomore, CS, 3 years ago):
+She tells you exactly what is expected of you and as long as you follow the guidelines you'll get an A. The material itself is not complex -until the last unit-, you just have to format your answers *perfectly* to not get points taken off.
+
+Review — CS 2050 (Junior, ECE, 9 months ago):
+I had her for Summer 2025 in Barcelona (she only teaches on that program in the summer now). She's amazing. Tests were chill except for the last one--that one was crazy. But tests were typically just like the practice exams she puts out, if not easier. She's really funny and will keep you updated on what's going on around in Barcelona.
+
+Review — CS 2050 (First-year, CS, 3 years ago):
+The key to her class and her HWs is to do EXACTLY what she does and/or what the TAs doe in lecture/recitation. Almost verbatim. The scary thing about this class was the tests. Exams worth 80% of grade. There were 4 exams, each with 20 multiple choice questions. Some material near the end was difficult, but asking students/TAs helped.
+
+Review — CS 2050 (Sophomore, CS, 3 years ago):
+Prof. Sweat is a great lecturer, but recitations are a must. Each recitation has a worksheet with questions very similar to the tests and homeworks, and following how the TAs solve the problems will ensure you get the most credit possible
+
+Review — CS 2050 (Junior, CS, 3 years ago):
+One homework per week due on Fridays, and the questions come from the textbook. Exams are 90% of your grade. Lectures are good, albeit they are almost exactly what is in the textbook. Otherwise, the textbook isn't really required. Tests are easier than what is covered in the homework, so it's good prep.
+
+Review — CS 2050 (Junior, ISYE, 3 years ago):
+Dr. Sweat is a great lecturer; she makes things very clear and easy to follow. The tests are predictable based on the homework and the recitation worksheets. My only complaint is that the grading can be very nitpicky. Overall, an easy yet informative class.
+
+Review — CS 2050 (First-year, CS, 3 years ago):
+Taking discrete with her was the best choice for my first semester at tech. I didn't like how I did on the first exam, scheduled a meeting with her, and she walked me through the lapses in my work and how to fix it in the future. Honestly if you just go to lecture which is normally pretty entertaining and take notes you'll do great.
+
+Review — CS 2050 (Sophomore, CS, 3 years ago):
+Good class. Pretty much what she teaches is what is on the test. I stopped reading the book halfway thru the class bc of this. Homework is good practice as well as old exam questions she gives you but don't expect the problems to be the exact same on the test. Just take good notes in lecture and you should be fine.
+
+Review — CS 4400 (Junior, CS, 3 years ago):
+Her lectures are clear and informative. I feel like this class could be taught in a much smaller time frame; I found that I got very bored in lectures. The project is worth SO much, and the TAs are very picky graders. Definitely make sure you have a good group going into it, or you're screwed. Tests weren't bad if you do practice tests beforehand.
+
+Review — CS 2050 (Sophomore, CS, 3 years ago):
+Organized and really caring. I enjoyed taking 2050 with her, and was always helpful whenever anyone needed any help. Real pleasant person too.
+
+Review — CS 2050 (First-year, CS, 3 years ago):
+Lectures were a little boring, but I found them helpful. Homework was harder than the tests. Overall not a very difficult class.
+
+Review — CS 1315 (First-year, INTA, 3 years ago):
+3 midterms, hw each week, and an optional final. You mostly learn how to solve simple math problems, manipulate pictures, and create basic web pages. As long as you attend lectures and recitation, the homeworks and exams are reasonable. Professor Sweat is a fair lecturer and her and the TAs do not hesitate to help you if you ask for help.
+
+Review — CS 1332 (Sophomore, CS, 3 years ago):
+1 homework per week. 3 tests throughout the semester (plus a final), and they're all pretty easy and not in depth. The TAs are incredibly helpful and active Piazza, so you can get help and your questions answered quickly. Professor lectures and clear and concise. Attending class helps because there are pop assignments now and then.
+
+Review — CS 1332 (Junior, CS, 3 years ago):
+Sweat didn't even her own slides. They were someone elses. That class was so boring, on test days we had about 150 people, on regular days there were only about 10-15 people there. My best memory, I asked her about Scheme, and she said to find Kurt.
+
+Review — CS 1332 (Sophomore, CS, 3 years ago):
+I slept every damn lecture until I stopped going. Easy class though.
+
+Review — CS 2050 (Junior, CS, 1 year ago):
+I had her during the Barcelona summer program. She knows what she's talking about and is great at explaining any concept. My only gripe was that she didn't cover a few topics as in depth as she needed to for exams, but I think that's due to the constraints of a summer semester, since we were already covering a lot of material. Tests are fair.
+
+Review — CS 4400 (First-year, ISYE, 2 years ago):
+Worst professor I've had at this school. Blatantly picked favorites and completely inaccessible for questions. Gossiped about students to others in the class. Didn't even show up for final presentations with little to no explaination showing massive disrespect to students
+
+Review — CS 2050 (First-year, BMED, 3 years ago):
+Professor Sweat is a great instructor. She always made sure students were understanding the material and was approachable and helpful when answering questions. Would definitely recommend taking any course with her!
+
+Review — CS 2050 (First-year, CS, 3 years ago):
+Homework is graded strictly but tests are doable. I've observed that the actual exams are about 15% more difficult than the practice exams.
+
+Review — CS 2050 (Sophomore, CS, 3 years ago):
+Very tough grader, but that's the point of discrete math. Lectures were enjoyable although the answer formats were misleading at times.
+
+Review — CS 2050 (Junior, CS, 3 years ago):
+Homeworks are very nit picky and not graded consistently. It doesnt matter if you understand the material on the homework, it matters if you write everything out the way Sweat wants. exams take an unreasonable amount of time to get back even though they are multiple choice.
+
+Review — CS 2050 (First-year, ECE, 3 years ago):
+Dr. Sweat is pretty funny, and she teaches the subject really well. She seems very caring from what I saw of her. Her tests were fair, and the homework and feedback were helpful in preparing for the tests. A solid choice for 2050.
+
+Review — CS 2050 (First-year, CS, 3 years ago):
+My favorite professor so far at Tech. She taught us exactly what we needed to know and was very nice. Her lectures were engaging and thorough. If you understand the homework problems, the tests are a breeze with no surprises. Amazing professor, and an easy A if you attend lecture and pay attention. Don't buy the textbook, there's a free pdf online.
+
+Review — CS 2050 (First-year, CS, 3 years ago):
+Monica is very passionate about her subject, and her lectures are always a lot of fun. Homework can be a little rough if you don't follow their guidelines, but it's pretty straightforward once you get the hang of it. I loved this class!
+
+Review — CS 2050 (First-year, CS, 3 years ago):
+Lectures can be a little boring, but are super informative and go over exactly what you need to know for the exam. Midterms are very similar to the practice exams and trying hard on the homework really prepares you well for them. TAs were also super helpful in clearing things up. All around would definitely take her again.
+
+Review — CS 2050 (First-year, CS, 3 years ago):
+Pretty good lectures, and problems can be similar to those on the tests. The first exam was the hardest IMO, and exams are 90% of the grade, so make sure to do HW well and understand the concepts.
+
+Review — CS 2050 (First-year, CS, 3 years ago):
+I enjoyed CS 2050, and it turned out to be an easy class as well. If you go to the lectures, that's all you really need to do the homework. Understand how to do the homework and do the practice tests she posts before midterms -- the midterms are really pretty much the same thing (go to recitation as well). She's also a great lecturer!
+
+Review — CS 2050 (First-year, CS, 3 years ago):
+The classes are boring but all the stuff in homeworks and test is from them. Most of the questions are repeated from tests of previous semsters so take them from your friends and do the practice test.
+
+Review — CS 2050 (First-year, CS, 3 years ago):
+Prof. Sweat is an amazing lecturer and you can really tell that she cares about her students!
+
+Review — CS 2050 (Sophomore, CS, 3 years ago):
+Prof. Sweat's lectures are quite good. Topics are a little boring but she's a great teacher. Grading criteria can be difficult at times, as they deduct points for very minute details. Tests are reflective of the homework. You'll do well in the class if you do the homework sincerely and independently.
+
+Review — CS 2050 (Sophomore, CS, 3 years ago):
+Her lectures are pretty clear and helpful but got a little boring halfway through the course. Tests are reflective of what we learned in class and aren't much different from homework problems. Definitely go to recitations to understand how the TAs will grade your test answers.
+
+Review — CS 2050 (Sophomore, ECE, 3 years ago):
+Her lectures got boring after a while especially during some modules where I felt reading textbook was better. The HW were 10% of the grade and exams consisted of rest 90%, 22.5% each including final. Exams weren't very tough but TAs took a lot of points for smalls mistakes which added up quickly. Don't start HW early as TA go over it in recitation
+
+Review — CS 2050 (Sophomore, ECE, 3 years ago):
+If you've had any exposure whatsoever to discrete math, you will likely find CS 2050 to be insultingly easy. If not, the pace of instruction is slow enough to where you might think that anyway. The only caveat is that Prof. Sweat is extremely nitpicky about notation and such when grading homeworks - far worse than in actual math classes.
+
+Review — CS 2050 (Sophomore, CS, 3 years ago):
+Monica's lectures are really good and easy to understand. Most of the grading is based on tests, which are very doable if you understand the material. Homework is weekly but never takes too long.
+
+Review — CS 2050 (First-year, CS, 3 years ago):
+Sweat is a great professor. I'm was pretty irresponsible and bombed the first test due to not showing up to class, but got it together and began attending lecture much more often. She's incredibly pleasant, and very fair. If you make a reasonable effort you should definitely be able to get an A.
+
+Review — CS 2050 (First-year, CS, 3 years ago):
+Monica is a very sweet professor who really cares about her students, both learning and well-being. Her class and grading are very straight-forward. She teaches at a very good pace and explains material very well. Do the work and study everything and you'll do great. The course material is actually pretty simple.
+
+Review — CS 2050 (Sophomore, ECE, 3 years ago):
+Easy tests and helpful recitations, easy to get a good grade as long as you put forth effort. Weekly homework that can sometimes be a little long though.
+
+Review — CS 2050 (Junior, ECE, 3 years ago):
+Great teacher, /very/ easy class so far. Have yet to take the last test, which is supposed to be harder than the others. Would recommend!!!
+
+Review — CS 1315 (Senior, CHEM, 3 years ago):
+Her tests are straight forward, she does her best to make the subject matter interesting, and make sure you go to workshops because that is where you learn the majority of the information.
+
+Review — CS 1331 (Junior, PHYS, 3 years ago):
+You can get a B in her Java class without too much work. However, it takes a considerable effort and/or significant foreknowledge of Java to get an A.
+
+Review — CS 1331 (Sophomore, CS, 3 years ago):
+I'd imagine this class would be good if you weren't a CS major. If you want to learn something useful don't take this woman's class.
+
+Review — CS 1331 (Sophomore, CS, 3 years ago):
+She is a great teacher. Very funny and easy to talk to. She teaches the class in a way that computer and non-computer majors are interested. If you go to the lectures and do your homeworks this should be an easy A
+
+Review — CS 1331 (Sophomore, CS, 3 years ago):
+funny
+
+Review — CS 1331 (Junior, AE, 3 years ago):
+she was my favorite teacher. really easy to understand, communicates well, very friendly. get monica if you can.
+
+Review — CS 1331 (Junior, CS, 3 years ago):
+How people could not love Monica is beyond me. She's an awesome professor, even if she is rather easy. XD
+
+Review — CS 1331 (Sophomore, CS, 3 years ago):
+Eh, I thought this class was a breeze. But I had previous programming experience. Monica is really cool, and easy to talk to. Just go to class all the time, pay attention, do the homework, you'll get an A. I did. My test grades were 97,91,96, and my final was a 99. No problem.
+
+Review — CS 1332 (Sophomore, CS, 3 years ago):
+not bad, but the class itself is very hard. Her lectures were not that great. Most of the material is learned in lab/recetation
+
+Review — CS 1331 (Sophomore, CS, 3 years ago):
+wasn't bad...better than Smith
+
+Review — CS 1331 (Junior, CS, 3 years ago):
+It's CS 1321, you can't expect it to be easy. She does the best a teacher can with the material she has to cover.
+
+Review — CS 1331 (Sophomore, CS, 3 years ago):
+Thank God I took her as my teacher! The course itself is pretty hard but you can surely count on Monica to help you out, either right after class or, she will gladly arrange office hours that will fit you! She explains very well.
+
+Review — CS 1331 (Sophomore, CS, 3 years ago):
+Not bad, but not anything special. Just expect the normal CS type of lecture.
+
+Review — CS 1331 (Sophomore, CS, 3 years ago):
+Fun class, taught very well.
+
+Review — CS 2050 (Sophomore, CS, 3 years ago):
+The class is not useful. The professor seems a nice person but this class is far from relevant. The class has some weird grading. Definitely needs improvement
+
+Review — CS 1332 (Junior, MATH, 3 years ago):
+Best Teacher Ever!!! Learned a lot.
+
+Review — CS 1332 (Sophomore, CS, 3 years ago):
+The lecture isn't all that interesting (the majority of people seem to be surfing the internet or playing games during class) but I felt like I learned a lot from the class and the tests were pretty easy
+
+Review — CS 1331 (Junior, CS, 3 years ago):
+As a non computer major, I would recomend other non computer majors take this class. She attempts to teach this class so students with no programming experience won't get lost. The computer majors will drive you crazy with their arrogant questions but she tries to minimize this. Very easy tests.
+
+Review — CS 2050 (First-year, CS, 3 years ago):
+Lectures are clear and informative, though occasionally a bit dry. Still, Prof. Sweat does have a personality and writes very fair tests. A decent amount of absences.
+
+Review — CS 2050 (Sophomore, CS, 3 years ago):
+Monica is my favorite professor in the College of Computing. She is extremely approachable and easy to talk to. Her classes are challenging but fair, and as long as you go to class and do the homework you should be able to pull out an A.
+
+Review — CS 1331 (Sophomore, MGT, 3 years ago):
+Probably the best pick for CS 1331. The material/class is difficult, but she's helpful and accommodating if you go to class and do the work; definitely a good teacher to have on your side. She cares about you knowing the material and is open and approachable for questions.
+
+Review — CS 1315 (First-year, BIOL, 3 years ago):
+Interested in teaching students the material so that they will be interested and actually learn it. She is always willing to help out with homework or other issues that arise. Puts out study guides before tests that are extremely helpful and is gracious in her grading - sometimes allowing for final exemptions if you have an A.
+
+Review — CS 1301 (Sophomore, ECE, 3 years ago):
+Monica is awesome. I wold gladly take another CS class if she were teaching it, and I don't like CS.
+
+Review — CS 1301 (First-year, ISYE, 3 years ago):
+Good teacher. Explains it so a liberal arts major could understand. Might b too easy for a CS major.
+
+Review — CS 1331 (Junior, CS, 3 years ago):
+Was very helpful. Always answers questions. Easy to talk to
+
+Review — CS 1301 (First-year, AE, 3 years ago):
+An exciting and funny professor. Having never programmed before, I was able to understand everything clearly. There's homework every week and no curve for any tests. Test questions are very similar to examples done in class.
+
+Review — CS 1315 (Junior, INTA, 3 years ago):
+she's AWESOME!
+
+Review — CS 1331 (Sophomore, CS, 3 years ago):
+Java is the epitome of all that is boring, and Sweat doesn't make it much more bearable... she is a nice person, but a very dry lecturer (not to mention advocating the gay rights agenda during class). I was bored out of my mind during lecture, and the homeworks made me want to put a gun in my mouth. The tests and final were really easy though.
+
+Review — CS 1332 (Sophomore, ISYE, 3 years ago):
+She is an pretty good teacher as long as you pay attention in her class or read the textbook (since she pretty much follows along with it). She's easy to talk to if you have any questions or problems. Her tests are basically straight from the study guides she puts out, give or take the wording and a few numbers.
+
+Review — CS 1331 (Junior, ECE, 3 years ago):
+Great professor. Fantastic at explaining difficult concepts, and she's not nitpicky on tests (she tests for overall understanding of concepts). If you go to class and do the homework, you'll be fine.

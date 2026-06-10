@@ -1,0 +1,17 @@
+Source: Coursicle — https://www.coursicle.com/gatech/courses/CS/1332/
+Course: CS 1332 — Data Structures and Algorithms
+Average Professor Rating: 79/100
+Credits: 3
+Description: Computer data structures and algorithms in the context of object-oriented programming. Focus on software development towards applications.
+
+Review — Monica Sweat (Sophomore, ISYE, 3 years ago):
+She is an averagely decent person (sometimes rude, but tolerable) outside of class, but honestly a horrible lecturer. She doesn't even take the time to make her own lecture notes, and just uses the lecture power points made by the textbook authors. She regularly CANNOT answer hard questions, and then the TAs take over to explain concepts.
+
+Review — Mary Hudachek-Buswell (Senior, CS, 3 years ago):
+I wasn't a fan of her lecture style. When she's there, she just reads off of slides, but she's often absent. Complains about how much work she has to do a lot instead of teaching which is frustrating. Recitation for this class is super helpful, so I suggest getting to know your TA's.
+
+Review — Frederic Faulkner (Senior, FI, 11 months ago):
+One thing I'll add to Professor Faulkner's list of compliments is how well he introduces ideas. He explains what situation you'd find yourself needing a data structure or algorithm before even teaching it- and this made understanding everything so much easier. He's a great professor.
+
+Course notes:
+CS 1332 is a core CS course. Frederic Faulkner is highly recommended. Monica Sweat and Mary Hudachek-Buswell receive criticism for lecture quality; recitation and TAs are essential for those sections.

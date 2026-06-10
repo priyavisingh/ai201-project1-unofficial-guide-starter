@@ -1,0 +1,14 @@
+Source: Coursicle — https://www.coursicle.com/gatech/courses/CS/4641/
+Course: CS 4641 — Machine Learning
+Average Professor Rating: 57/100
+Credits: 3
+Description: Machine learning techniques and applications. Topics include foundational issues; inductive, analytical, numerical, and theoretical approaches; and real-world applications.
+
+Review — Charles Isbell (Sophomore, CS, 3 years ago):
+The instructor is extremely knowledgeable and has accomplished a great deal in his field. However, he expects everyone taking the class to already know most of the topic. Class is more discussion than explanation. He doesn't adjust to anyone's needs such as not wearing a microphone in a big classroom when other professors do. Gives no guidance.
+
+Review — Alan Ritter (First-year, BUS, 3 years ago):
+Professor Ritter absolutely killed my interest in machine learning. It is impossible to follow along with him in lectures as he simply circles and scribbles all over the slides. The projects and homework assignments are nothing like what he teaches in class -- at ALL. The only way to succeed is to teach yourself everything and pray you're close.
+
+Course notes:
+CS 4641 instructor experience varies widely. Isbell expects synthesis and prior knowledge. Ritter's lectures are described as hard to follow with a gap between lecture content and assignments. Self-teaching is commonly required.

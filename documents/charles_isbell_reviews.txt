@@ -1,0 +1,32 @@
+Source: Coursicle — https://www.coursicle.com/gatech/professors/Charles+Isbell/
+Professor: Charles Isbell
+Department: College of Computing
+Coursicle Rating: 44/100
+Courses: CS 3600, CS 4641, CS 7641, CS 7642
+
+Review — CS 4641 (Sophomore, CS, 3 years ago):
+The instructor is extremely knowledgeable and has accomplished a great deal in his field. However, he expects everyone taking the class to already know most of the topic. Class is more discussion than explanation. He doesn't adjust to anyone's needs such as not wearing a microphone in a big classroom when other professors do. Gives no guidance.
+
+Review — CS 4641 (Junior, CS, 3 years ago):
+Extremely unclear grading criteria. But easy to get an A. This is a Udacity video course. The videos are painfully unfunny and waste time trying to be funny. Concepts explained at very high level, but no concrete examples or applications. So when you do assignments, you basically have 0 instruction to guide you. Frustrating and useless course.
+
+Review — CS 4641 (Graduate, MATH, 3 years ago):
+worst professor in the wold. Best jokes, keep defaming master degree when he teach grad class. Dumb jokes, if you want to learn something and get good grade, dont take his class
+
+Review — CS 4641 (Junior, EECS, 3 years ago):
+Dr. Isbell is well known in his field but really cocky in class, mentioning things like his Tesla or how big his house is. His answer are also sassy. Although gradings are done by the TA's the TA's are under his control and the grading for projects are extremely inconsistent. This is really the most unfair and inconsistent class I have ever taken.
+
+Review — CS 4641 (Senior, ME, 3 years ago):
+Charles (as he asks himself to be called) is an amazing instructor and is knee deep into the topic himself. He along with Michael (Dr. Littman) are doing an amazing job.
+
+Review — CS 4641 (Sophomore, CS, 3 years ago):
+The class is like a Machine Learning experiment, an unsupervised one. You learn the real rubric for assignments when you attend office hours and pay attention to assignment feedback. There is a curve at the end that I'm convinced is based on training data from previous iterations of the course. This leads to student complaints. But it's refreshing!
+
+Review — CS 4641 (Senior, ME, 3 years ago):
+Lectures were painful and many unsuccessful attempts at witty banter and jokes. Felt like a waste of time. The assignments were so vague in what they expected of students and the class average for these assignments were always somewhere between 40 to 60%. Honestly I only took this class because I had to for my specialization. Avoid if possible.
+
+Review — CS 4641 (Junior, CS, 3 years ago):
+My favorite professor so far. He really knows his stuff, and explains it to students in an easy to understand way. He has an amazing sense of humor and if I had to sum his personality in one word it would be awesome. His classes are really fun to go to and informative as well. He has Udacity lectures online but the classroom is way better.
+
+Review — CS 3600 (First-year, CS, 3 years ago):
+Charles has simple expectations: synthesis of the material. Everything else is in your court, including learning LISP. The TAs are of no help to you, so be your own advocate.

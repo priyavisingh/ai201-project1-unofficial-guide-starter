@@ -1,0 +1,215 @@
+Source: Coursicle — https://www.coursicle.com/gatech/professors/David+Joyner/
+Professor: David Joyner
+Department: College of Computing
+Coursicle Rating: 89/100
+Courses: CS 1301, CS 4635, CS 4660, CS 6400, CS 6750, CS 7637, CS 7646
+
+Review — CS 1301 (First-year, CEE, 3 years ago):
+This is perhaps the best class I've taken. You can go at your own pace, and you cannot receive less than a one hundred on any homework assignment unless you give up. You get multiple attempts on test questions, and you can submit coding problems as many times as you want before you get it right. This class is very easy and works to any schedule.
+
+Review — CS 1301 (Junior, CS, 3 months ago):
+If you don't already have knowledge w/ CS this can be a very long and challenging course. Wayyyy too much HW for an intro class, but there is extra credit. The tests are hard because they are all or nothing, so it's easy to get a poor grade if you don't write out the solutions perfectly.
+
+Review — CS 1301 (First-year, INTA, 4 months ago):
+The best online course I've ever taken, every video is clearly related to homework and practice.
+
+Review — CS 1301 (First-year, ISYE, 4 months ago):
+Really good.
+
+Review — CS 1301 (Junior, ISYE, 4 months ago):
+This class was very easy. The first few units are simple, even if you don't have experience, the videos and practice assignments make everything understandable. The practice quizzes/tests are very similar to the real ones, so just study those. The class is organized well. Overall, as long as you do the work and stay on track, you're guaranteed a A.
+
+Review — CS 1301 (Junior, INTA, 3 years ago):
+He is really a great teacher that understands how to teach programming to those who are completely new to it, especially explaining concepts that can get confusing and how they truly work on the computer (such as reference types and such, which made much more sense to me when he explained it).
+
+Review — CS 1301 (First-year, MGT, 3 years ago):
+Dr. Joyner is the best teacher I've had at Georgia Tech and I took the CS 1301 online class with him. His video lectures were clear and concise. I had never taken any CS course before this one. I only had to complete 3 problems on the final for a 95 overall in the class. Definitely recommend him.
+
+Review — CS 7637 (Graduate, CS, 3 months ago):
+Very low quality of professor.
+
+Review — CS 1301 (Sophomore, ISYE, 4 months ago):
+Only good thing about this class is that he gives lots of extra credit and it's basically impossible to fail. Other than that his tests and quizzes are way harder than the HW he assigns and gives way too much HW in the first place for a 3 credit class.
+
+Review — CS 1301 (Senior, PHYS, 5 months ago):
+I succeeded in the class due to my commitment to it. It is very easy to fail this class, but also easy enough to get an A. Know this class won't be easy, watch the vids (don't skip ANY), and do the work without AI and you'll secure an A. The grading scheme is in your favor. Commit to the class and put forth time and effort & the A is yours to earn.
+
+Review — CS 1301 (Sophomore, NEUR, 5 months ago):
+Prof. Joyner is the best! Was nervous about taking CS but the online lectures and practice sets made it easy to follow through. Definitely make sure you understand the earlier units. The class builds on itself towards the end.
+
+Review — CS 1301 (Junior, HDFS, 5 months ago):
+He's an awesome person. Great lectures, great resources. Lots of chances to get your grade up and recieve extra credit.
+
+Review — CS 1301 (Junior, ID, 5 months ago):
+Not very considerate and communicates very poorly.
+
+Review — CS 1301 (Junior, BIOL, 5 months ago):
+I thought this class was fairly easy, just time consuming sometimes. As long as you do the assignments and not entirely Chat GPT them, you'll have enough understanding of the content to do well on the tests/quizzes. The final was difficult but its only worth 10% of your grade and you have the opportunity to add 2% to your grade with extra credit.
+
+Review — CS 1301 (Junior, ISYE, 5 months ago):
+Best prof for 1301 - genuinely a class for beginners and no prior cs knowledge expected. Test questions are all or nothing but there's a lot of extra credit to earn back points. Final is definitely significantly harder than other tests but manageable if you study.
+
+Review — CS 1301 (Sophomore, ACCT, 6 months ago):
+This class was surprisingly really difficult. The work was really time consuming and the tests were all-or-nothing (meaning if you messed something up, you get 0 pts). Although I had some prior coding knowledge, I still really struggled and the test formatting really dropped my grade. The best part of the class is that you get extra credit points.
+
+Review — CS 1301 (Junior, BMED, 6 months ago):
+As a non cs major, it was a lot and it took up a lot of my time, and I still didnt do as good as I wanted to. the smallest mistake on a test makes you lose 12 points. Way too much irrelevant work for this class.
+
+Review — CS 6750 (Graduate, CS, 6 months ago):
+My fall semester went worst
+
+Review — CS 1301 (Junior, MGT, 6 months ago):
+Honestly speaking, this class was really overwhelming as someone who is not a CS major. If you have a hard time understanding coding or just have no interest in the matter, I would recommend you take a different section of this class. The tests and quizzes are all-or-nothing & the homework is HEAVY. I wish I took it in person as the tests are hard.
+
+Review — CS 1301 (First-year, ID, 6 months ago):
+I took CS1301 for Dual Enrollment, Mr. Joyner's the best, gives you 4 extra credit points if you just complete some tasks. Do the homework and practice quiz/tests as exactly those same concepts show up on the test/quiz with tweaked questions. It was a really fun class. You should definitely take him! Study really hard for test 3!
+
+Review — CS 1301 (Sophomore, BIOL, 6 months ago):
+I took CS1301 for Dual Enrollment, Mr. Joyner's the best, gives you 4 extra credit points if you just complete some tasks. Do the homework and practice quiz/tests as exactly the same concepts show up on the test/quiz with just tweaked questions. It was a really fun class! You should definitely take him!
+
+Review — CS 1301 (First-year, EAS, 6 months ago):
+I took CS 1301 with David Joyner as a Dual Enrollment student. Honestly, I barely scraped an A (with 4 points of extra credit). Do good on the first 2 tests as after that, it gets much harder. I got a 55 and a 40 on the last 2 tests while i got a 100 and 76 on the first 2. Despite his tests being incredibly difficult, I still managed to get an A!
+
+Review — CS 1301 (First-year, MSE, 6 months ago):
+Best professor you could take for CS1301! We have the chance to get 5 points of extra credit. Grade was not too test-reliant. You can fail a few tests and still pass the course with an A! Great grace period, but avoid getting behind, as it is a lot of work with difficult material. Also, exams are quite difficult.
+
+Review — CS 7637 (Graduate, CS, 6 months ago):
+Intensive coding assignments, and participation. Projects disconnected from the theory of this class. Total 13 coding homeworks + 2 exams. Very intensive class.
+
+Review — CS 1301 (First-year, ISYE, 6 months ago):
+This class can be quite a lot if you happen to fall behind during the middle of the semester. The unit 3 test is quite difficult so be prepared for that. Other than that, the course is great. Up to 5% of extra credit for the overall grade and 50% of your grade is just doing online classwork which you are guaranteed to get a 100% on. He's the goat.
+
+Review — CS 1301 (First-year, ME, 6 months ago):
+Look, he is about as good as it gets. If you truly struggled in this class, you should honestly be thanking him for making you realize you're just terrible at CS. One of the easiest classes I have ever taken and the work load is perfect, not to mention you actually LEARN a lot.
+
+Review — CS 1301 (Junior, PHYS, 6 months ago):
+Took this class online, and it was fine. I really wish I took this class in person because it was so easy to tune this class out. Pretty easy if you don't fall behind and you can tell he's really passionate about CS through his post.
+
+Review — CS 1301 (Sophomore, ISYE, 7 months ago):
+Just dont take the class, it is literally a god awful amount of work and takes so much time out of your day, take anything to get the credit besides this class. like geniunely dont ever take it, i thought he was a cool guy but for 3 credit hours you literally spend your whole life on this class. it made me hate cs and hate school
+
+Review — CS 1301 (Sophomore, BMED, 7 months ago):
+HES MY GOAT I LOVE HIM MWAH
+
+Review — CS 1301 (First-year, PSYC, 7 months ago):
+This professor has refined this course over the 7 years it dropped, and it is pretty good. The concepts are hard if you are not familiar with coding, but the learning format is really easy. I took the summer semester and it was pretty difficult but that's because I am not the coder. 5 extra credit points. If your dual enrollment, take it! Why not?
+
+Review — CS 1301 (Sophomore, PUBP, 1 year ago):
+David Joyner is a great and respected professor! His lecture videos were clear and the practice exams were very similar to the tests. I recommend taking his classes!
+
+Review — CS 1301 (First-year, ID, 1 year ago):
+Being required to take a cs class at tech is challenging for people like me who study neuroscience and have no interest in computer science but this online course was phenomenal. The material is easy to grasp and there is a lot of practice. The tests are very straight forward and exactly like the practice. There is also tons of extra credit.
+
+Review — CS 1301 (First-year, CHEM, 3 years ago):
+Dr. Joyner was an amazing professor. Lecture videos are very short and informative. For those dual enrolling like I did, try not to get behind and procrastinate. Previous CS experience can be very helpful, but doing problem sets last minute can get stressful!
+
+Review — CS 6750 (Graduate, CS, 3 years ago):
+The homework are very subjective and frankly, they don't provide much value. There are a lot of ambiguous questions which can drive people crazy. It almost feel like Joyner is actively trying to set most of students to fail rather than inspiring them.
+
+Review — CS 1301 (Sophomore, PSYC, 3 years ago):
+Take CS 1301 online!! This course is a really effective way to learn it. Joyner's video lectures are really concise & the lessons are broken up by exercise questions so you don't get distracted/bored; vids are 3 mins long on avg. Really manageable class; its schedule is properly paced and very flexible, but don't procrastinate or you'll struggle.
+
+Review — CS 1301 (First-year, ECE, 3 years ago):
+I've taken online classes before and had terrible experiences, but both the layout of the course and the professor itself are excellent. It takes self-discipline like any online class, but the professor is very qualified, passionate, and answers emails, slack, and Piazza questions promptly.
+
+Review — CS 6400 (Senior, CSE, 3 years ago):
+David is one of the best professors I have ever had. He's extremely involved with his students, going above and beyond to get in touch with them. The class I took him for (CS 6400) was extremely freeform and he did a fantastic job allowing students to pursue something that interested them while still accomplishing all of the learning goals.
+
+Review — CS 1301 (First-year, CS, 4 months ago):
+His online section itself isn't bad at all. He has video lectures that explain most concepts well and understanding is not difficult, but you have to be disciplined and make an effort to try. Homeworks are relatively easy A's but the exams can be difficult (the later in the course, the more difficult the exam). Will round your grade up though.
+
+Review — CS 1301 (Junior, PSYC, 6 months ago):
+If you don't have any experience on python it would be worst of your grade, i'm really sure this course required more than intro stuff. For the test you have to make sure every single letter have to be perfect, one mistake ruin yr grade.
+
+Review — CS 1301 (First-year, AE, 8 months ago):
+Had clear instruction and generous grace periods that allowed students to complete work even a week after the deadline. Work was not very hard and extra credit opportunities were plentiful. I enjoyed Professor Joyner's class a lot.
+
+Review — CS 1301 (Sophomore, CEE, 8 months ago):
+The grading scheme of this course is so forgiving, especially with 5 points added to your final class grade if you do all the extra credit. I had no knowledge of CS before this class, but Dr. Joyner's lectures made it so easy to understand. Tests can be challenging, so make sure you do as good as you can on the first 2 tests because they get harder
+
+Review — CS 1301 (First-year, CS, 11 months ago):
+Dr. Joyner is an amazing teacher, never took cs before. The homework was pretty reasonable for each week and there was always a grace period for no penalty. There was lots of extra optional practice for the quizzes/tests(good gage for exams). Online tests so each problem is all or nothing for pts but you get to run as many times as you like.
+
+Review — CS 1301 (First-year, ISYE, 1 year ago):
+The class itself wasn't very engaging. It is taught through an online medium, but I think the tests were wayyyy too difficult that there should've been some curve or other measures taken. The final was insane.
+
+Review — CS 1301 (First-year, CS, 1 year ago):
+Going into this class everyone said it was so easy, but DO NOT BE FOOLED. The class is a lot of work and I had a wake up moment when I got a 35% on the Unit 3 exam after getting a 100% on Unit 2. Still came out with an A but the class was just a lot more work than what I was expecting.
+
+Review — CS 1301 (Senior, HDFS, 1 year ago):
+I took this class fully online in summer and loved it! I have zero CS experience but didn't struggle with this class at all. It's nice taking it online so you can choose how long to spend on different topics. His course is so well structured and organized with very clear and helpful examples and explanations. Amazing class! Take him if you can!
+
+Review — CS 6750 (Senior, CS, 1 year ago):
+I could check many other tags - get ready to read, participation matters, inspirational, caring, so many papers, accessible... Most of the 1.0 ratings seemingly misunderstand the nature of HCI coursework, where open-endedness is a feature and not a bug, because the goal is precisely to weigh tradeoffs in the face of no definitive, 'right' answers.
+
+Review — CS 1301 (Sophomore, ID, 1 year ago):
+online 1301 is hands down the best way to take it (especially since its required for basically everyone) It can still be hard sometimes, and the problem sets can feel never-ending, but nothing you do is busy work and its a million times better than any of the experiences I've heard from my friends who took 1301 in person. Don't fall behind though
+
+Review — CS 1301 (Graduate, NEUR, 2 years ago):
+For an online course, the class was structured extremely well, and the lectures were very detailed and informative. There was also plenty of examples and practice problems that made learning the content very easy. Some weeks the workload is pretty heavy but manageable. Would highly recommend him for CS 1301!
+
+Review — CS 1301 (First-year, BCP, 3 years ago):
+The class itself is easy, but the tests are ridiculous. coding takes a long time and we are only given a short amount of time to completely code almost 10 problems. there is NO PARTIAL CREDIT on the tests. all or nothing. it's very possible to get a zero on a test. you can still get an A or B if you do the hwk and problem sets so don't stress.
+
+Review — CS 1301 (First-year, ECE, 3 years ago):
+I took his class for CS1301 and it was a blast. He's an awesome professor, really easily accessible outside of class and provides ample extra credit to get an A. His tests are also organized in such a good way where you can run the code to test it out before you submit it which is so convenient. If you put in the work this class is an easy A.
+
+Review — CS 1301 (Senior, CS, 3 years ago):
+He was incredible
+
+Review — CS 1301 (First-year, BIOL, 3 years ago):
+Joyner is a great professor. Caring guy, willing to work with you, overall very positive. Course itself can be tricky; if you do not have any background in CS and you have a busy semester schedule (me), then this course can be difficult to get an A in. DO NOT FALL BEHIND, IT IS VERY DIFFICULT TO CATCH UP ON.
+
+Review — CS 1301 (First-year, ECE, 3 years ago):
+Dr. Joyner is one of the most caring professors I have met at Tech. He is very flexible, understanding, and a great teacher. His online lectures can be a bit confusing at times, but he is very understanding and even adjusts due dates if students need extra time for assignments. Take him if you can!
+
+Review — CS 1301 (First-year, CS, 3 years ago):
+Dr. Joyner is a truly inspirational person and the best instructor I have had yet. This class is amazing and I would recommend anyone to take it. Just don't fall behind!
+
+Review — CS 6750 (Graduate, CS, 3 years ago):
+Great. You can see his passion, and will learn a lot.
+
+Review — CS 1301 (Sophomore, ECE, 3 years ago):
+Probably one of the best professors I've had at Tech. His class and amazing video lectures gave me a wonderful foundation in computer science and the Python language. I dealt with some things during the semester, and he was willing to work with me and help me catch up which prevented me from dropping the class and falling behind an entire semester.
+
+Review — CS 1301 (Senior, NEUR, 3 years ago):
+Amazing class, and amazing teacher! Very lenient and understanding, lecture videos are short and informative, and all tests and quizzes have multiple, very helpful practice versions that are almost identical to the real ones. Problems aren't very hard, but there's a lot of them!
+
+Review — CS 1301 (Sophomore, ME, 3 years ago):
+Professor Joyner did a great job creating his CS 1301 class. The class was built to be virtual asynchronous, so I did not have many live interactions with him, but his recorded presentations and the structure of the class were fantastic. Made it really easy to learn. Spent about 5 hours/week on this class to complete the material and get an A.
+
+Review — CS 1301 (Senior, MGT, 3 years ago):
+True gem of a professor, but the class is a LOT of work! It's asynchronous and you just have to complete assignments before the unit deadline passes. However, there are soo many problems to complete in each unit so start early! He's very understanding about extensions. Also, his practice quizzes and tests are super helpful/similar to the real thing
+
+Review — CS 1301 (First-year, CS, 3 years ago):
+Although this completely an online EdX class, Prof. Joyner has created and taught it beautifully. The content is such that it is impossible to not learn the concepts. Prof. Joyner was also flexible with deadlines and gave extensions as technology naturally brought its complications. If you keep up with the class, you should do well and learn a lot!
+
+Review — CS 1301 (Sophomore, CS, 3 years ago):
+The entire course is so well laid out and fully put together. He is very knowledgeable about what he teaches. I went to one recitation and still got an A. He gives out extra credit every unit and he give practice quizzes and exams THAT MIRROR THE REAL quizzes and exams. He was super helpful with trouble shooting during exams. Would take again!
+
+Review — CS 1301 (First-year, ME, 3 years ago):
+I was told that I needed to take Dr. Joyner's asynchronous class at all costs for my required CS credit, and they were right! Even though the class is asynchronous, I really felt connected to Dr. Joyner. He is a great lecturer and I LOVED the way this class was structured. If all classes were like this online class, I'd be so happy.
+
+Review — CS 1301 (First-year, ACCT, 3 years ago):
+Such an amazing professor. It was online but this course was MADE to be online. Everything was accessible and convenient and there were so many chances to practice problems and to understand the material. He really cares about his students and he is a fair professor. 10/10 would take him again.
+
+Review — CS 7637 (Graduate, CS, 3 years ago):
+Took a class with him, lots and lots of paper. Even though the homework provided lots of insights of the concepts of the course but barely learned any new techniques from the course. Prof. Joyner is more suited to teach conceptual based courses but I wouldn't recommend any AI/ML related classes. Overall, decent professor, bad class design.
+
+Review — CS 1301 (Junior, CS, 3 years ago):
+The best class I've taken at Georgia Tech. I am a business major, and it made me think about switching to CS. The online format is amazing and so much better than in person. You get to run/test/debug your code as many times as you want before you submit it on a test (other CS sections are paper only). You can complete material at your own pace.
+
+Review — CS 1301 (Junior, ME, 3 years ago):
+Professor Joyner is the best CS professor I've ever had a class with by far. I took the online section, which is definitely worth it. Pretty simple A if you do your work and his recorded lectures are really good. Definitely worth taking a class with him.
+
+Review — CS 1301 (Sophomore, PHYS, 3 years ago):
+Even though I didn't leave with an A in the class, this is without a doubt the best course I will probably take at Tech. You need self-discipline to do the work though because he usually gives you until the day before the test to turn in the work. It'll start off a bit slow, but don't let that fool you. Just do the work in a timely manner to pass.
+
+Review — CS 1301 (Junior, ECE, 1 year ago):
+This was my first dual enrollment cs class and Professor Joyner made it very easy to understand concepts and data structures and algorithms. He was very available and offered a lot of extra credit. I would recommend taking his course!
+
+Review — CS 1301 (Sophomore, ECE, 1 year ago):
+Best CS professor you can get. Online Async is the way to go, it makes learning flexible. His method for teaching online is the best, ever. Learning was so easy because of how good of a teacher he is. There is A LOT of homework, lectures, test/quizzes to do, but that is mostly expected.
+
+Review — CS 1301 (Junior, CS, 1 year ago):
+I was personally TERRIBLE at CS (as I've never done anything like it before), but Joyner was so caring and extra helpful when I needed it! He offered lots of extra credit, and the lectures were helpful and engaging. I would definitely recommend this course with him! Just make sure not to get behind- it works out terribly.
