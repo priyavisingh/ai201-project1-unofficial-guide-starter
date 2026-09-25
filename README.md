@@ -1,5 +1,13 @@
 # The Unofficial Guide: Project 1
 
+## CompE course-planning dataset
+
+`data/courses.json` is compiled from public Georgia Tech catalog and syllabus data, plus manually entered aggregate GPA, for a personal course-planning tool. It is not an official Georgia Tech service.
+
+The current file has 15 courses from the combined Distributed System & Software Design and Systems & Architecture Thread (requirement rows and the courses a student chooses among for the same slot). Catalog screenshots cover every course. Syllabus grading and workload fields are filled for every course except ECE 4150, which was not offered in the semester these materials were collected, and CS 3510, whose syllabus does not say how many problem sets there are. Average GPA is an aggregate across sections, not per instructor, and is filled for all 15 courses. No instructor names, emails, or office hours are stored.
+
+Filterable fields for retrieval: `prerequisites`, `requirements_fulfilled`, `topics_covered`, `skills_developed`, `exam_structure`, and `average_gpa`.
+
 ---
 
 ## Setup and Run

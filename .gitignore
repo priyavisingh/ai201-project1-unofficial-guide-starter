@@ -12,10 +12,13 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# ChromaDB local storage
+# ChromaDB local storage and generated index files.
+# data/courses.json is the course-planning dataset and stays tracked.
 chroma_db/
 chroma/
-data/
+data/raw/
+data/chunks.json
+data/chroma/
 
 # macOS
 .DS_Store

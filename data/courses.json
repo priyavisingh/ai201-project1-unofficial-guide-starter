@@ -1,0 +1,963 @@
+[
+  {
+    "course_code": "CS 3251",
+    "title": "Computer Networking I",
+    "credit_hours": 3,
+    "prerequisites": {
+      "expression": "CS 2200 with a minimum grade of C or ECE 3057 with a minimum grade of C or ECE 3058 with a minimum grade of C",
+      "items": [
+        {
+          "course": "CS 2200",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 3057",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 3058",
+          "type": "hard",
+          "min_grade": "C"
+        }
+      ]
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Computer Networking I (1 class in CS 3251)"
+    ],
+    "description": "Introduction to problems in computer networking, including error recovery, medium access, routing, flow control, and transport. Emphasis on current best practice. Includes programming of networked applications.",
+    "skills_developed": [
+      "Understand how computer networks are designed and how they operate.",
+      "Use network measurement and troubleshooting tools.",
+      "Solve mathematical problems about network performance.",
+      "Recognize design challenges in wide-area, datacenter, wireless, and cellular networks.",
+      "Build networked applications and network protocols."
+    ],
+    "topics_covered": [
+      "computer networking concepts, protocols, and technologies",
+      "the current Internet as a case study",
+      "fundamental problems, ideas, and algorithms",
+      "sockets programming",
+      "wide area networks",
+      "datacenter networks",
+      "wireless and cellular networks"
+    ],
+    "exam_structure": "3 in-person pen-and-paper exams: an in-class midterm (25%), an in-class programming quiz (12%), and a cumulative final during finals period (32%). One A4 sheet is allowed on the midterm, one on the programming quiz, and two on the final. No internet or AI on exams.",
+    "grading_breakdown": "3 homework assignments at 7% each (21%), 1 programming assignment 10%, in-class midterm 25%, in-class programming quiz 12%, cumulative final 32%. Scale: A>=90, 90>B>=80, 80>C>=70, 70>D>=60, 60>F. No curve stated. Homework is graded on completion and good-faith effort, not on correctness of individual answers.",
+    "assignment_load": "3 homework assignments and 1 sockets programming assignment, submitted on Canvas. Required textbook: Computer Networking: A Top-Down Approach, Kurose and Ross, 9th edition. Late policy: 1-hour grace period, 10% penalty under 24 hours, 20% penalty from 24 to 48 hours, not accepted after 48 hours.",
+    "has_lab": {
+      "value": "no",
+      "note": "Syllabus lists homework, one programming assignment, and in-person exams. No lab component is stated."
+    },
+    "average_gpa": {
+      "value": 3.31,
+      "scale": 4.0,
+      "sections_tracked": 77,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "exam-heavy",
+    "notable_features": "Exams are 69% of the grade (midterm, programming quiz, and cumulative final), so the tag is exam-heavy. Homework is only 21% and is not graded for correctness. Sections A and B share TAs but can differ in topic order and grading; students must follow the section they are registered in. Lectures are in person and are not livestreamed.",
+    "source": "GT Course Information popup; Fall 2026 section A syllabus"
+  },
+  {
+    "course_code": "CS 3210",
+    "title": "Design of Operating Systems",
+    "credit_hours": "0 or 3",
+    "prerequisites": {
+      "expression": "CS 2200 with a minimum grade of C or ECE 3057 with a minimum grade of C or ECE 3058 with a minimum grade of C Fall 2026 syllabus also lists C programming, the Linux shell, and CS 2200 as pre- or co-requisites for this section.",
+      "items": [
+        {
+          "course": "CS 2200",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 3057",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 3058",
+          "type": "hard",
+          "min_grade": "C"
+        }
+      ]
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Design of Operating Systems (1 class in CS 3210)"
+    ],
+    "description": "Design, implementation, and evaluation of operating systems. Covers processes and threads, CPU scheduling, synchronization and concurrency, memory management and virtual memory, file systems, I/O, and virtualization.",
+    "skills_developed": [
+      "Understand why and how operating systems are designed, organized, and function.",
+      "Work with OS kernel abstractions including virtual memory, scheduling, and I/O.",
+      "Implement core OS concepts through hands-on programming projects.",
+      "Think critically about OS design decisions and their trade-offs."
+    ],
+    "topics_covered": [
+      "processes and threads",
+      "CPU scheduling",
+      "synchronization and concurrency",
+      "memory management and virtual memory",
+      "file systems",
+      "I/O",
+      "virtualization"
+    ],
+    "exam_structure": "2 exams, together worth 40%. In-class tests and exams must be individual work. The syllabus does not say whether one of them is a final.",
+    "grading_breakdown": "Labs 60%, 2 exams 40%. Scale: A\u226590, B\u226580, C\u226570, D\u226560. No curve stated. All assignments are mandatory. Supervised labs include a quiz due at the end of each session.",
+    "assignment_load": "Supervised labs worth 60%, using xv6 (a free Unix-like teaching operating system). Some labs may be done in pairs; otherwise they are individual. Each student has a pre-indicated number of late days for the semester; the count is not stated.",
+    "has_lab": {
+      "value": "yes",
+      "note": "Supervised labs are 60% of the grade. Attendance at lab is highly recommended. Each lab session ends with a quiz. Lecture attendance is not required."
+    },
+    "average_gpa": {
+      "value": 3.24,
+      "scale": 4.0,
+      "sections_tracked": 35,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "project-heavy",
+    "notable_features": "Labs are 60% and exams are 40%, so the tag is project-heavy. This Fall 2026 section lists preparation as C programming, the Linux shell, and CS 2200. The catalog still lists the prerequisite as CS 2200 or ECE 3057 or ECE 3058, each with a minimum grade of C. Generative AI is disallowed on all assignments. Catalog header lists 0 or 3 credits; this syllabus is the 3-credit section.",
+    "source": "GT Course Information popup; Fall 2026 syllabus"
+  },
+  {
+    "course_code": "CS 3220",
+    "title": "Processor Design",
+    "credit_hours": 3,
+    "prerequisites": {
+      "expression": "(CS 2200 with a minimum grade of C or ECE 3057 with a minimum grade of C or ECE 3058 with a minimum grade of C) and ECE 2031 with a minimum grade of C",
+      "items": [
+        {
+          "course": "CS 2200",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 3057",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 3058",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 2031",
+          "type": "hard",
+          "min_grade": "C"
+        }
+      ]
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Comp Structures: Hardware/Software Codesign of a Processor (1 class in CS 3220)"
+    ],
+    "description": "Introduces traditional processor architectures and dedicated AI accelerator architectures through lectures and hands-on laboratory work. Follows CS 2200. Emphasizes implementing basic processor modules in Verilog, including pipeline design, operation parallelism, and on-chip communication. Topics include Verilog, FPGA programming, pipeline design, parallel architecture, NoC design, RISC-V processors, AI accelerators, Xilinx FPGA tools, and Pynq boards. Catalog description: principles in pipelined processor design, with emphasis on a close interaction between code generation and architecture.",
+    "skills_developed": [
+      "Understand pipelining, operation parallelism, on-chip communication, NoC design, and RISC-V-based systems.",
+      "Design and implement basic hardware modules using Verilog, FPGA workflows, Xilinx tools, and Pynq boards.",
+      "Apply concepts from traditional processors and dedicated AI accelerators in laboratory assignments.",
+      "Debug, test, and iterate on individual hardware designs."
+    ],
+    "topics_covered": [
+      "Verilog",
+      "FPGA programming",
+      "pipeline design",
+      "parallel architecture design",
+      "network-on-chip design",
+      "RISC-V processors",
+      "AI accelerators",
+      "Xilinx FPGA tools",
+      "Pynq boards"
+    ],
+    "exam_structure": "No midterm or final exam is stated. An entrance exam is 3% bonus credit.",
+    "grading_breakdown": "Participation, short assignments, and attendance 20%. Lab assignments 80%. Entrance exam 3% bonus. Scale: A 90\u2013100, B 80\u201389, C 70\u201379, D 60\u201369, F below 60. No curve stated. Late submissions are not accepted without prior approval.",
+    "assignment_load": "Lab assignments are 80% of the grade and are individual. Lecture notes are the course materials. Optional reference: Computer Architecture: A Quantitative Approach. Three or more absences or excessive lateness can negatively affect the final grade.",
+    "has_lab": {
+      "value": "yes",
+      "note": "Hands-on laboratory work is 80% of the grade, using Verilog, Xilinx FPGA tools, and Pynq boards."
+    },
+    "average_gpa": {
+      "value": 3.62,
+      "scale": 4.0,
+      "sections_tracked": 29,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "project-heavy",
+    "notable_features": "Labs are 80% and there is no stated midterm or final, so the tag is project-heavy. The syllabus describes the course as following CS 2200. Catalog prerequisites remain (CS 2200 or ECE 3057 or ECE 3058) and ECE 2031, each with a minimum grade of C.",
+    "source": "GT Course Information popup; Fall 2026 syllabus"
+  },
+  {
+    "course_code": "CS 2340",
+    "title": "Objects and Design",
+    "credit_hours": 3,
+    "prerequisites": {
+      "expression": "Undergraduate Semester level CS 1331 Minimum Grade of C or Undergraduate Semester level CS 1372 Minimum Grade of C or Undergraduate Semester level CS 1316 Minimum Grade of C",
+      "items": [
+        {
+          "course": "CS 1331",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "CS 1372",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "CS 1316",
+          "type": "hard",
+          "min_grade": "C"
+        }
+      ]
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Objects & Design"
+    ],
+    "description": "Object-oriented design methods and processes for building large-scale software systems. Students apply an object-oriented language to complex problems using agile practices. Topics include architectural modeling, UML-based design documentation, design principles and patterns, and collaborative iterative development. The course emphasizes design thinking and teamwork through a substantial team-based software project.",
+    "skills_developed": [
+      "Apply object-oriented design principles (GRASP, SOLID) to analyze and structure software systems.",
+      "Select and implement design patterns (Singleton, Factory, Observer, Strategy) for modularity, flexibility, and maintainability.",
+      "Design and build a substantial team-based software system using Agile methodologies and industry-standard tools.",
+      "Collaborate in Agile teams using version control and development tools.",
+      "Evaluate, test, and refactor code using established practices and quality feedback tools."
+    ],
+    "topics_covered": [
+      "object-oriented design",
+      "architectural modeling",
+      "UML",
+      "design principles and patterns",
+      "GRASP",
+      "SOLID",
+      "agile development",
+      "version control",
+      "testing and refactoring"
+    ],
+    "exam_structure": "1 midterm and 1 final. Closed book, closed notes unless announced otherwise. No make-up exam without a verified Dean of Students excuse.",
+    "grading_breakdown": "Project setup 8%, project implementation 32%, midterm 15%, final 15%, AI readiness module 7%, survey submissions 3%, lecture participation quizzes 2%, CATME peer reviews 8%, weekly quiz and activities 10%. Fixed scale with no rounding: A [90, 100), B [80, 90), C [70, 80), D [60, 70), F [0, 60). No curve stated. Extra credit: in-class Quizizz up to 2%, project opportunities up to 5.1%, CIOS up to 1%.",
+    "assignment_load": "One substantial team-based software project (setup plus implementation), weekly quizzes and in-class activities, an AI readiness module, surveys, and CATME peer reviews. No required textbook; two free library texts are recommended (Applying UML and Patterns; Head First Design Patterns). Late work: up to 1 day limited to 85%, up to 2 days limited to 70%, after that 0. Weekly in-class assignments are not accepted late.",
+    "has_lab": {
+      "value": "no",
+      "note": "Syllabus describes lectures, exams, and a team project. No lab component is stated."
+    },
+    "average_gpa": {
+      "value": 3.86,
+      "scale": 4.0,
+      "sections_tracked": 97,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "balanced",
+    "notable_features": "Exams are 30% and the team project is 40%, with the rest quizzes, peer review, and small modules, so the tag is balanced. Team project uses sprints; a group change can be requested before the end of Sprint 2. Grade basis on the catalog listing is ALP. Catalog attributes: STEM USG, Tech Elect CS, Engr, & Sciences.",
+    "source": "OSCAR Detailed Course Information; Summer 2026 syllabus"
+  },
+  {
+    "course_code": "CS 3510",
+    "title": "Algorithms",
+    "credit_hours": 3,
+    "prerequisites": {
+      "expression": "(Undergraduate Semester level CS 2050 Minimum Grade of C or Undergraduate Semester level CS 2051 Minimum Grade of C) and (Undergraduate Semester level CS 1332 Minimum Grade of C or Undergraduate Semester level MATH 3012 Minimum Grade of D)",
+      "items": [
+        {
+          "course": "CS 2050",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "CS 2051",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "CS 1332",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "MATH 3012",
+          "type": "hard",
+          "min_grade": "D"
+        }
+      ]
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Design and Analysis of Algorithms"
+    ],
+    "description": "Basic techniques of design and analysis of efficient algorithms for standard computational problems. NP-Completeness. Credit not allowed for both CS 3510 and CS 3511.",
+    "skills_developed": "not specified",
+    "topics_covered": [
+      "divide and conquer",
+      "graph algorithms",
+      "dynamic programming",
+      "NP-completeness",
+      "max flow",
+      "linear programming",
+      "greedy algorithms",
+      "randomized algorithms",
+      "approximation algorithms"
+    ],
+    "exam_structure": "4 exams, including the final. Summer 2026 dates in the syllabus are June 1, June 15, June 24, and July 8.",
+    "grading_breakdown": "Four exams, including the final, each worth 10% (40% combined). Weekly problem sets, each worth 6%. The syllabus says these weights are subject to change and does not state how many problem sets there are, so the category total is not fully specified. No curve is stated.",
+    "assignment_load": "Weekly problem sets. Students are expected to read class notes in parallel with attendance. A free textbook (Erickson) is listed as a resource; no required textbook is stated.",
+    "has_lab": {
+      "value": "no",
+      "note": "Syllabus lists lectures, exams, and problem sets. No lab component is stated."
+    },
+    "average_gpa": {
+      "value": 3.25,
+      "scale": 4.0,
+      "sections_tracked": 91,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "not specified",
+    "notable_features": "Workload tag is not specified because each problem set is 6% but the count is not given, and the syllabus says the weights may change. OSCAR short title is Dsgn&Analysis-Algorithms. Grade basis: ALP. Credit is not allowed for both CS 3510 and CS 3511. Main units are divide and conquer, graph algorithms, dynamic programming, and NP-completeness.",
+    "source": "OSCAR Detailed Course Information; Summer 2026 syllabus"
+  },
+  {
+    "course_code": "CS 3300",
+    "title": "Introduction to Software Engineering",
+    "credit_hours": 3,
+    "prerequisites": {
+      "expression": "Undergraduate Semester level CS 2340 Minimum Grade of C",
+      "items": [
+        {
+          "course": "CS 2340",
+          "type": "hard",
+          "min_grade": "C"
+        }
+      ]
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Systems Software Tools"
+    ],
+    "description": "Introduces software engineering processes and practices, including requirements engineering, software architecture and design, implementation, testing, refactoring, and deployment. Hands-on work is two team-based software projects. The course also covers AI-assisted and agentic development tools, including how to evaluate their limits and keep human oversight.",
+    "skills_developed": [
+      "Design, implement, and deliver two substantial software systems in a team.",
+      "Apply the software development lifecycle from requirements to deployment.",
+      "Design software using architecture patterns, UML, and design patterns.",
+      "Use Git, code reviews, APIs, and cloud platforms.",
+      "Develop and evaluate testing strategies (black-box, white-box, TDD).",
+      "Use and critically evaluate AI-assisted and agentic development tools.",
+      "Collaborate and communicate work through demos, reports, and presentations."
+    ],
+    "topics_covered": [
+      "requirements engineering",
+      "software architecture and design",
+      "implementation",
+      "testing",
+      "refactoring",
+      "deployment",
+      "UML and design patterns",
+      "AI-assisted and agentic development"
+    ],
+    "exam_structure": "No midterm or final exam stated. Weekly quizzes, open notes, proctored with Honorlock, 7-minute limit, released Fridays at 5:00 PM ET and due the following Tuesday at 11:59 PM ET. Generative AI is not permitted during quizzes.",
+    "grading_breakdown": "Assignments and lecture activities 20%, project 1 30%, project 2 30%, team collaboration 7%, weekly quizzes 10%, surveys 3%. Scale with no rounding and no exceptions: A [90, 100), B [80, 90), C [70, 80), D [60, 70), F [0, 60). No curve stated. Extra credit: Quizizz 1.5%, survey submissions 0.4%, extra credit inside the two projects listed as TBD.",
+    "assignment_load": "Two team-based software projects, weekly quizzes, lecture activities, surveys, and CATME peer evaluations. The syllabus lists success prerequisites that are not catalog prerequisites: Java, Git, basic JS/CSS/HTML, introductory LLM use, teamwork, UML and design patterns. Cloud computing knowledge is described as a plus.",
+    "has_lab": {
+      "value": "no",
+      "note": "Syllabus describes projects, quizzes, and lecture activities. No lab component is stated."
+    },
+    "average_gpa": {
+      "value": 3.77,
+      "scale": 4.0,
+      "sections_tracked": 25,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "project-heavy",
+    "notable_features": "No exams. The two projects are 60% of the grade. Catalog grade basis is L. A group change can be requested before the end of Sprint 2. Generative AI is intentionally part of some assignments, unlike the quizzes, where it is prohibited.",
+    "source": "OSCAR Detailed Course Information; Fall 2026 syllabus"
+  },
+  {
+    "course_code": "ECE 4122",
+    "title": "Advanced Programming Techniques for Engineering Applications",
+    "credit_hours": 3,
+    "prerequisites": {
+      "expression": "ECE 2035 [min C] or ECE 2036 [min c] Prerequisite. The 0-credit unsupervised lab section must be taken at the same time as the 3-credit course.",
+      "items": [
+        {
+          "course": "ECE 2035",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 2036",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 4122 unsupervised lab section",
+          "type": "co-req",
+          "min_grade": "not specified"
+        }
+      ]
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Distributed Sys/Software Design Electives",
+      "CMPE degree selected elective",
+      "EE degree selected elective",
+      "Threads / ECE Electives"
+    ],
+    "description": "Course covers a number of programming techniques for distributed and parallel computing and other advanced methods, such as multiprecision arithmetic and nonblocking I/O. Credit not awarded for ECE 4122 and ECE 6122.",
+    "skills_developed": [
+      "Develop multi-threaded C++ applications using standard threading models.",
+      "Develop 3D enabled C++ applications using OpenGL.",
+      "Develop distributed C++ applications on (high performance computing) HPC systems.",
+      "Develop C++ applications using shortest path algorithms and optimization techniques.",
+      "Develop distributed C++ applications using TCP and UDP sockets for communication.",
+      "Develop GPU enabled C++ applications."
+    ],
+    "topics_covered": [
+      "distributed and parallel computing",
+      "multiprecision arithmetic",
+      "nonblocking I/O",
+      "multi-threaded C++",
+      "OpenGL",
+      "HPC systems",
+      "shortest path algorithms",
+      "TCP and UDP sockets",
+      "GPU enabled C++"
+    ],
+    "exam_structure": "No exams stated for the 3-credit section. The paired 0-credit unsupervised lab is graded only on 7 online concept quizzes.",
+    "grading_breakdown": "3-credit section: programming assignments 70%, unsupervised lab 10%, final project 20%. Stated cutoffs: A>90, B>80, C>70, D>60. No curve stated. The 0-credit lab section itself is 100% online concept quizzes (quiz 1 and 2 at 20% each, quizzes 3\u20137 at 10% each), and that lab counts as 10% of the course grade.",
+    "assignment_load": "Seven homework assignments, one per major topic, at 10% each, plus one unsupervised lab (10%) and a final project (20%) that combines several topics. No required textbook; free online texts through the Georgia Tech library.",
+    "has_lab": {
+      "value": "yes",
+      "note": "Unsupervised lab, 0 credits, taken at the same time as the 3-credit section. Catalog also lists 0 supervised lab hours and 3 unsupervised lab hours. Lab grade is concept quizzes and is 10% of the course grade. Attendance is not part of the lab grade."
+    },
+    "average_gpa": {
+      "value": 3.84,
+      "scale": 4.0,
+      "sections_tracked": 14,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "project-heavy",
+    "notable_features": "No exams. 90% of the course grade is programming homework plus a final project. Credit is not awarded for both ECE 4122 and ECE 6122. Catalog contact hours are (2-0-3-3). Attendance and participation in the 3-credit section are considered when determining the final grade, with no percentage given. One option in the Distributed Sys/Software Design Electives group.",
+    "source": "ECE catalog course page; Fall 2026 3-credit section syllabus; Fall 2026 0-credit unsupervised lab syllabus"
+  },
+  {
+    "course_code": "ECE 4150",
+    "title": "Cloud Computing",
+    "credit_hours": 3,
+    "prerequisites": {
+      "expression": "ECE 2035 [min C] or ECE 2036 [min C] or CS 2110 [min C]",
+      "items": [
+        {
+          "course": "ECE 2035",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 2036",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "CS 2110",
+          "type": "hard",
+          "min_grade": "C"
+        }
+      ]
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Distributed Sys/Software Design Electives (6 credits from ECE 4150 or ECE 4180 or ECE 4795 or CS 3651 or CS 4220 or CS 4605)"
+    ],
+    "description": "Cloud computing technologies, computation models, and applications, design methodologies for cloud applications, use of cloud-based languages and tools in developing advanced applications.",
+    "skills_developed": [
+      "Distinguish among cloud-solution alternatives and choose using key performance metrics.",
+      "Analyze implementation and deployment choices and recommend a solution for an enterprise client.",
+      "Predict how storage, computing, and networking design choices affect security, cost, performance, and reliability."
+    ],
+    "topics_covered": [
+      "foundations of the cloud",
+      "virtualization",
+      "load balancing",
+      "scalability and elasticity",
+      "deployment",
+      "replication",
+      "cloud programming frameworks",
+      "rapid prototyping",
+      "debugging",
+      "e-commerce, business-to-business, banking, and social-networking reference architectures",
+      "benchmarking",
+      "security",
+      "analytics"
+    ],
+    "exam_structure": "not specified",
+    "grading_breakdown": "not specified",
+    "assignment_load": "not specified",
+    "has_lab": {
+      "value": "yes",
+      "note": "Catalog contact hours are (2-0-3-3): 0 supervised lab hours and 3 unsupervised lab hours. No syllabus describes what the lab work is."
+    },
+    "average_gpa": {
+      "value": 3.52,
+      "scale": 4.0,
+      "sections_tracked": 8,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "not specified",
+    "notable_features": "Not offered in the semester these materials were collected, so there is no syllabus. Exam structure, grading breakdown, assignment load, and workload tag stay not specified. Catalog contact hours are (2-0-3-3). Listed textbook: Cloud Computing: A Hands-On Approach. CMPE and EE selected elective, and Threads / ECE Electives. One of six courses that can satisfy the 6-credit Distributed Sys/Software Design Electives requirement.",
+    "source": "GT Course Information popup; ECE catalog course page"
+  },
+  {
+    "course_code": "ECE 4180",
+    "title": "Embedded Systems Design",
+    "credit_hours": "0 or 4",
+    "prerequisites": {
+      "expression": "Catalog popup: ECE 2031 with a minimum grade of D and (ECE 2036 with a minimum grade of D or ECE 2035 with a minimum grade of D) (CS 3510 with a minimum grade of D or CS 3511 with a minimum grade of D) or CS 3240 with a minimum grade of D. Syllabus: ((ECE 2031 and (ECE 2035 or ECE 2036)) or (CS 3510 or 3511 or 3240)) or a relative undergraduate degree.",
+      "items": [
+        {
+          "course": "ECE 2031",
+          "type": "hard",
+          "min_grade": "D"
+        },
+        {
+          "course": "ECE 2036",
+          "type": "hard",
+          "min_grade": "D"
+        },
+        {
+          "course": "ECE 2035",
+          "type": "hard",
+          "min_grade": "D"
+        },
+        {
+          "course": "CS 3510",
+          "type": "hard",
+          "min_grade": "D"
+        },
+        {
+          "course": "CS 3511",
+          "type": "hard",
+          "min_grade": "D"
+        },
+        {
+          "course": "CS 3240",
+          "type": "hard",
+          "min_grade": "D"
+        }
+      ],
+      "grouping_note": "The catalog popup is missing an operator between parenthetical groups. The syllabus states ((ECE 2031 and (ECE 2035 or ECE 2036)) or (CS 3510 or CS 3511 or CS 3240)) or a relative undergraduate degree, and does not restate minimum grades. Minimum grades above are from the catalog popup only. The syllabus also says students should have C/C++ programming skills and a college-level physics 2 understanding of circuits; those are not labeled as hard prerequisites."
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Distributed Sys/Software Design Electives (6 credits from ECE 4150 or ECE 4180 or ECE 4795 or CS 3651 or CS 4220 or CS 4605)"
+    ],
+    "description": "Processors, chipsets, busses, and I/O devices for high-ended embedded systems. Embedded operating systems; device drivers and applications for embedded systems. Syllabus overview: hardware and software design for higher embedded systems, including I/O principles, communication protocols, real-time operating systems, interrupts, memory hierarchy, and power, with the ESP32 microcontroller as a specific platform.",
+    "skills_developed": [
+      "Identify embedded systems in the real world, the problems they solve, and how they do so.",
+      "Design embedded systems using a microcontroller connected to peripherals and I/O devices.",
+      "Understand how microcontrollers and peripherals communicate using different protocols.",
+      "Write software for embedded systems with and without APIs, in both a high-level and a low-level language.",
+      "Understand hardware timers with respect to the processor's clock.",
+      "Analyze and create a real-time system to be deployed on an embedded system."
+    ],
+    "topics_covered": [
+      "processors, chipsets, busses, and I/O devices",
+      "high-ended embedded systems",
+      "embedded operating systems",
+      "device drivers",
+      "I/O principles",
+      "communication protocols",
+      "real-time operating systems",
+      "interrupts",
+      "memory hierarchy",
+      "power",
+      "ESP32 microcontroller"
+    ],
+    "exam_structure": "2 in-person paper midterms. Exams are not cumulative, except the syllabus reserves the right to reassess an exam 1 topic on exam 2. No final exam; a final project replaces it.",
+    "grading_breakdown": "Lab assignments 25%, midterm 1 20%, midterm 2 20%, final 35%. The syllabus states there is no final exam and the final project replaces it, so the 35% final line is the project. CIOS bonus up to 1% (0.5% if 85% of the section completes CIOS, 1% if 90%). Typical scale A >= 90, B >= 80, and so on. Curve is stated: the scale may change if the course average GPA is below 3.00 and will be curved to reach that, but an A will never be more than 90%.",
+    "assignment_load": "5 graded labs (Lab 0 through Lab 4), all allowed in groups of 2. Lab 0 is a low-stakes setup lab. Labs 1\u20134 use an ESP32-C6-DevKitC-1 on the Arduino IDE. Final project, also groups of 2, replaces the final exam: completion-based proposal, working presentation, code, a brief report, and a schematic. Project deliverables are due May 1 and the presentation is during regular instructional days, not the final-exam slot. No required textbook.",
+    "has_lab": {
+      "value": "yes",
+      "note": "5 graded labs worth 25% of the grade. Groups of 2. Optional parts kit, or parts borrowed from the lab room and returned by the end of the semester. Students are expected to have their own breadboard and wire kit."
+    },
+    "average_gpa": {
+      "value": 3.56,
+      "scale": 4.0,
+      "sections_tracked": 62,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "balanced",
+    "notable_features": "Catalog header lists 0 or 4 credits. Catalog attribute: TCES. Exams are 40% and labs plus the final project are 60%, so the workload tag is balanced. Early lab sign-off earns extra points (5 on Monday of the due week, then 4, 3, and 2 on the following days). The syllabus reserves the right to add an attendance grade or pop quizzes that count toward the exam grade, and to drop a letter grade if lab parts are not returned. Two copies of this syllabus were provided and they match. One of six courses that can satisfy the 6-credit Distributed Sys/Software Design Electives requirement.",
+    "source": "GT Course Information popup; ECE 4180 syllabus"
+  },
+  {
+    "course_code": "ECE 4795",
+    "title": "GPU Programming for Video Games",
+    "credit_hours": "0 or 3",
+    "prerequisites": {
+      "expression": "ECE 2035 with a minimum grade of C or ECE 2036 with a minimum grade of C or CS 2110 with a minimum grade of C or CS 2261 with a minimum grade of C",
+      "items": [
+        {
+          "course": "ECE 2035",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 2036",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "CS 2110",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "CS 2261",
+          "type": "hard",
+          "min_grade": "C"
+        }
+      ]
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Distributed Sys/Software Design Electives (6 credits from ECE 4150 or ECE 4180 or ECE 4795 or CS 3651 or CS 4220 or CS 4605)"
+    ],
+    "description": "3-D graphics pipelines. Physically-based rendering. Game engine architectures. GPU architectures. Graphics APIs. Vertex and pixel shader programming. Post-processing effects. Deferred rendering.",
+    "skills_developed": [
+      "Apply mathematics to describe how surfaces and cameras respond to light.",
+      "Write shader programs for geometric transformations, lighting calculations, and image processing on GPUs.",
+      "Use real-time game engines as a host for shader code.",
+      "Write shader code to process 3-D geometry, calculate lighting, and postprocess images.",
+      "Articulate the advantages of physically-based rendering.",
+      "Summarize GPU architectures in computer graphics.",
+      "Recognize components common to real-time game engines and graphics APIs.",
+      "Make tradeoffs between per-pixel and per-vertex lighting, and between forward and deferred rendering."
+    ],
+    "topics_covered": [
+      "3-D graphics pipelines",
+      "physically-based rendering",
+      "game engine architectures",
+      "GPU architectures",
+      "graphics APIs",
+      "vertex and pixel shader programming",
+      "post-processing effects",
+      "deferred rendering"
+    ],
+    "exam_structure": "No traditional midterm or final, on paper or online.",
+    "grading_breakdown": "Several major programming projects, described as heavily weighted and typically out of 100 points, plus small tasks for watching videos, typically 2 to 4 points. Each assignment states its own weight; a single percentage breakdown is not given. Letter grades: 90\u2013100% A, 80\u201389% B, 65\u201379% C, 64% or below D or F. No curve stated.",
+    "assignment_load": "Several intensive programming projects in C# inside the Unity engine, with HLSL/Cg vertex and pixel shaders. One early project implements a basic graphics pipeline without a 3-D API and is due before drop day. Small video-watching tasks. No required textbook. Asynchronous: lectures do not have a fixed attendance time. A computer that can run Unity is required.",
+    "has_lab": {
+      "value": "no",
+      "note": "No lab section is stated. Work is programming projects and short video tasks."
+    },
+    "average_gpa": {
+      "value": 3.77,
+      "scale": 4.0,
+      "sections_tracked": 19,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "project-heavy",
+    "notable_features": "No exams, and programming projects are described as heavily weighted, so the tag is project-heavy. Exact category percentages are not published in the syllabus. The C range starts at 65%, not 70%. The course does not cover OpenCL or CUDA. Cross-listed as CS/ECE 4795. Summer 2026 offering is asynchronous.",
+    "source": "GT Course Information popup; Summer 2026 syllabus"
+  },
+  {
+    "course_code": "CS 3651",
+    "title": "Prototyping Intelligent Devices",
+    "credit_hours": "0 or 4",
+    "prerequisites": {
+      "expression": "ECE 2031 with a minimum grade of C",
+      "items": [
+        {
+          "course": "ECE 2031",
+          "type": "hard",
+          "min_grade": "C"
+        }
+      ]
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Distributed Sys/Software Design Electives (6 credits from ECE 4150 or ECE 4180 or ECE 4795 or CS 3651 or CS 4220 or CS 4605)"
+    ],
+    "description": "Practical, hands-on electronic device prototyping and development. Focuses on elementary electronics, microcontroller firmware, simple physical prototyping, and inventive problem solving. Lab-based skill demonstrations plus an open-ended final project. Catalog description: hands-on fundamentals of electronics for electrical and mechanical prototyping.",
+    "skills_developed": [
+      "Apply Ohm's law, calculate power usage, and implement Kirchhoff's circuit laws.",
+      "Calculate equivalent resistance and capacitance for series and parallel components.",
+      "Implement electronic circuits from schematics.",
+      "Write and run embedded code on a microcontroller.",
+      "Capture and evaluate digital and analog signals.",
+      "Use interrupts for real-time processing.",
+      "Generate pulse-width-modulated signals.",
+      "Control DC motors, stepper motors, and RC servos.",
+      "Use communication protocols between devices.",
+      "Design a 3D object in CAD and produce it on a 3D printer.",
+      "Design an object and produce it with a laser cutter.",
+      "Build a complete device with electronics, firmware, and an enclosure, and demonstrate it live."
+    ],
+    "topics_covered": [
+      "basic electronics",
+      "Ohm's law",
+      "power",
+      "Kirchhoff's circuit laws",
+      "series and parallel resistance and capacitance",
+      "schematics",
+      "microcontroller firmware",
+      "digital and analog signals",
+      "interrupts",
+      "pulse width modulation",
+      "DC, stepper, and RC servo motors",
+      "device communication protocols",
+      "CAD, 3D printing, and laser cutting"
+    ],
+    "exam_structure": "No midterm or final exam is stated. Announced open-book, open-note quizzes total 3%. The project demonstration is during the finals period.",
+    "grading_breakdown": "Skill demonstrations 47%, quizzes 3%, class project 50%. No rounding. Cutoffs: A at 90.0 and above, B from 80.0 up to 90.0, C from 70.0 up to 80.0, D from 60.0 up to 70.0, F below 60.0. No curve stated. Skill demos lose 10% per class period late, for at most 3 class periods. Missing the final project demo fails the class.",
+    "assignment_load": "Skill demonstrations about once a week in the first part of the course, most signed off in class. One semester project, solo or in a group of up to two, with a proposal, the build, a write-up, and a presentation during finals. An electronics kit costing less than $100 is required instead of a textbook. Some project materials may need to be purchased.",
+    "has_lab": {
+      "value": "yes",
+      "note": "The course is lab-based. Skill demonstrations are in-class labs and are 47% of the grade. Attendance is not tracked, but lab sign-offs require attending the registered section."
+    },
+    "average_gpa": {
+      "value": 3.7,
+      "scale": 4.0,
+      "sections_tracked": 49,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "project-heavy",
+    "notable_features": "The project is 50% and weekly skill-demo labs are 47%, with quizzes only 3%, so the tag is project-heavy. Syllabus prerequisite wording is ECE 2031 or equivalent experience reading schematics and implementing circuits. The catalog popup lists ECE 2031 with a minimum grade of C. Catalog header lists 0 or 4 credits; this syllabus is the 4-credit course.",
+    "source": "GT Course Information popup; Fall 2026 syllabus"
+  },
+  {
+    "course_code": "CS 4220",
+    "title": "Real-Time Embedded Systems",
+    "credit_hours": "3 in the catalog popup; 4 in the Fall 2026 syllabus",
+    "prerequisites": {
+      "expression": "CS 2200 with a minimum grade of C or ECE 3057 with a minimum grade of C or ECE 3058 with a minimum grade of C Fall 2026 syllabus instead says: completion of one systems course, preferably operating systems, or equivalent work experience.",
+      "items": [
+        {
+          "course": "CS 2200",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 3057",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 3058",
+          "type": "hard",
+          "min_grade": "C"
+        }
+      ]
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Distributed Sys/Software Design Electives (6 credits from ECE 4150 or ECE 4180 or ECE 4795 or CS 3651 or CS 4220 or CS 4605)",
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Advanced Systems & Architecture (1 class in CS 4210 or CS 4220 or ECE 4100)"
+    ],
+    "description": "Traditional real-time and embedded systems as resource-constrained closed systems, then the shift to open, horizontally scalable systems with statistical quality-of-service guarantees. Lectures cover schedulability, then performance, reliability, and security. Students apply the material in a semester-long project. Catalog description: design principles, programming techniques, and case studies of embedded real-time systems; interface techniques and devices; representations and reasoning about physical processes.",
+    "skills_developed": [
+      "Explain schedulability and absolute quality-of-service guarantees in closed real-time systems.",
+      "Explain statistical quality-of-service guarantees, including P99 performance, in open scalable systems.",
+      "Apply the Principle of Conservation of QoS across performance, reliability, and security.",
+      "Introduce security concepts and formal verification, including the seL4 microkernel.",
+      "Practice autonomous-learning skills: distinguishing fact from non-fact, applying theory, checking assumptions, and recognizing trend patterns.",
+      "Execute a semester-long project with plans, evidence, and checkpoint reports."
+    ],
+    "topics_covered": [
+      "real-time embedded systems",
+      "schedulability",
+      "quality of service",
+      "closed systems versus open scalable systems",
+      "machine learning and AI in real-time systems",
+      "feedback-based schedulers",
+      "program specialization",
+      "real-time operating systems",
+      "seL4",
+      "microservices",
+      "security and formal verification"
+    ],
+    "exam_structure": "No exams are stated.",
+    "grading_breakdown": "Current plan, which the syllabus says has changed over time: attendance 10% (90% physical attendance counts as full credit), reading papers and writing commentaries 15%, project checkpoint reports 75%. No letter-grade cutoffs and no curve are stated. Project grades can increase on later checkpoints if improvements are shown.",
+    "assignment_load": "Reading and commentary before lectures, a reproducibility exercise, then checkpoint reports about every 3 weeks: project plan, execution status, and GitHub evidence, ending in a final report and presentation video. Teams of 1, 2, or more. Students either propose a project or join a structured project. No textbook; readings are papers on Canvas.",
+    "has_lab": {
+      "value": "no",
+      "note": "No lab section is stated. The main work is a semester-long project worth 75%."
+    },
+    "average_gpa": {
+      "value": 3.47,
+      "scale": 4.0,
+      "sections_tracked": 16,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "project-heavy",
+    "notable_features": "The project is 75% and there are no exams, so the tag is project-heavy. Fall 2026 syllabus is cross-listed CS 4220/CS 6235 and states 4 credits, while the catalog popup states 3 credits. Syllabus prerequisite wording is completion of one systems course, preferably operating systems, or equivalent work experience. The catalog popup still lists CS 2200 or ECE 3057 or ECE 3058, each with a minimum grade of C. The same course is listed in both the 6-credit Distributed Sys/Software Design Electives group and the Advanced Systems & Architecture pick-one group.",
+    "source": "GT Course Information popup; Fall 2026 CS 4220/CS 6235 syllabus"
+  },
+  {
+    "course_code": "CS 4605",
+    "title": "Mobile and Ubiquitous Computing",
+    "credit_hours": 3,
+    "prerequisites": {
+      "expression": "CS 2110 with a minimum grade of C or CS 2261 with a minimum grade of C or (ECE 2020 with a minimum grade of C and ECE 2035 with a minimum grade of C) This syllabus's formal prerequisites list only CS 2110 or CS 2261, each with a minimum grade of C.",
+      "items": [
+        {
+          "course": "CS 2110",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "CS 2261",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 2020",
+          "type": "hard",
+          "min_grade": "C"
+        },
+        {
+          "course": "ECE 2035",
+          "type": "hard",
+          "min_grade": "C"
+        }
+      ]
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Distributed Sys/Software Design Electives (6 credits from ECE 4150 or ECE 4180 or ECE 4795 or CS 3651 or CS 4220 or CS 4605)"
+    ],
+    "description": "Third-generation computing in which people interact continuously with many devices embedded in the everyday environment. Covers sensing and computing foundations, then practical projects that build and deploy mobile and ubiquitous systems. Catalog description: infrastructure for mobile and ubiquitous computing applications, plus major research themes and experimental practices.",
+    "skills_developed": [
+      "Build practical applications on mobile and ubiquitous computing foundations.",
+      "Judge what different components can do, including interface usefulness and technical challenges.",
+      "Apply mobile and ubiquitous techniques to real-world problems.",
+      "Analyze the foundations of mobile and ubiquitous computing.",
+      "Use those methods in innovative practical applications."
+    ],
+    "topics_covered": [
+      "ubiquitous computing overview",
+      "prototyping mobile and ubiquitous technology",
+      "sensors and sensor data analysis, including applied machine learning",
+      "eye and gesture interaction",
+      "evaluation of mobile and ubiquitous systems",
+      "smart homes and infrastructure-mediated sensing",
+      "wearable computing",
+      "head-mounted displays",
+      "location technologies",
+      "privacy",
+      "context-aware computing"
+    ],
+    "exam_structure": "1 take-home final exam worth 10%, completed individually during a stated exam week. It covers videos, readings, activities, and project material.",
+    "grading_breakdown": "Class participation 40% (readings, discussions, in-class exercises, graded quizzes, and 1 graded group exercise). Project deliverables 50% in the summary table. The listed project pieces are proposal and teaser video 10%, halftime update 10%, final presentation and demo 10%, and final report 15%, which sum to 45%, not 50%. Exam 10%. Scale: 90\u2013100% A, 80\u201389% B, 70\u201379% C, 60\u201369% D, below 60% not passing. No curve stated.",
+    "assignment_load": "One semester-long group project in teams of at least four, with a team contract, proposal and teaser video, halftime update, demo, and report. About 10 topic blocks with practical exercises, often in teams, after prerecorded videos and readings. CITI IRB training is required before project work. A hardware starter kit is about $45 if the student does not already have similar parts. Textbook used: Ubiquitous Computing Fundamentals, John Krumm, 1st edition, with more weight on scientific articles than on that book.",
+    "has_lab": {
+      "value": "no",
+      "note": "No separate lab section is stated. In-class prototyping exercises use a microcontroller and sensor kit."
+    },
+    "average_gpa": {
+      "value": 3.79,
+      "scale": 4.0,
+      "sections_tracked": 37,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "project-heavy",
+    "notable_features": "The project is listed at 50% and the exam is 10%, so the tag is project-heavy. The syllabus's own project line items add to 45% while the summary says 50%; both figures are stored and not reconciled. This syllabus's formal prerequisites are only CS 2110 or CS 2261, each with a minimum grade of C. The catalog popup also allows ECE 2020 and ECE 2035 together, each with a minimum grade of C. Peer star ratings can scale every group grade down. A plagiarism quiz must be passed before other work.",
+    "source": "GT Course Information popup; CS 4605 syllabus"
+  },
+  {
+    "course_code": "CS 4210",
+    "title": "Advanced Operating Systems",
+    "credit_hours": 3,
+    "prerequisites": {
+      "expression": "CS 3210 with a minimum grade of C",
+      "items": [
+        {
+          "course": "CS 3210",
+          "type": "hard",
+          "min_grade": "C"
+        }
+      ]
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Advanced Systems & Architecture (1 class in CS 4210 or CS 4220 or ECE 4100)"
+    ],
+    "description": "Operating system abstractions and their implementations, multi-threading, efficient inter-address communication, high-level synchronization, introduction to multi-processor and distributed operating systems, real-time systems.",
+    "skills_developed": [
+      "Explain operating-system structures, multicore and multi-process systems, distributed operating systems, and datacenter systems.",
+      "Compare systems-software designs and their effect on real-world systems.",
+      "Implement advanced systems-software features and design scalable services for a single node or a distributed environment."
+    ],
+    "topics_covered": [
+      "operating systems structuring",
+      "multithreading and synchronization",
+      "parallel and distributed computing systems",
+      "multicore and multi-process operating systems",
+      "distributed operating systems",
+      "datacenter systems",
+      "research papers on systems software"
+    ],
+    "exam_structure": "1 midterm (20%) and 1 final (25%). Exams are open access to papers, proctored with Honorlock, and not cumulative. Based on lectures and required reading.",
+    "grading_breakdown": "Programming assignments 50%, midterm 20%, final 25%, class participation 5%. Scale: A 90\u2013100, B 80\u201389, C 70\u201379, D 60\u201369, F 0\u201359. No curve stated. A passing average is required in both the projects and the exams in order to pass.",
+    "assignment_load": "Four programming projects. The first project is individual. After that, students either continue the assigned sequence or replace the remaining projects with an instructor-approved project. Strong C programming skills are stated as essential. No textbook; required reading is research papers.",
+    "has_lab": {
+      "value": "no",
+      "note": "Syllabus describes projects, exams, and paper reading. No lab component is stated."
+    },
+    "average_gpa": {
+      "value": 3.45,
+      "scale": 4.0,
+      "sections_tracked": 31,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "balanced",
+    "notable_features": "Projects are 50% and exams are 45%, so the tag is balanced. Cross-listed and held jointly with CS 6210; undergraduates see the same content, with possible differences in exam and project evaluation. Catalog prerequisite remains CS 3210 with a minimum grade of C. One of three courses that can satisfy Advanced Systems & Architecture. Attendance is encouraged and not required.",
+    "source": "GT Course Information popup; CS 4210/CS 6210 syllabus"
+  },
+  {
+    "course_code": "ECE 4100",
+    "title": "Advanced Computer Organization",
+    "credit_hours": 3,
+    "prerequisites": {
+      "expression": "ECE 3056 with a minimum grade of D or ECE 3057 with a minimum grade of D or ECE 3058 with a minimum grade of D",
+      "items": [
+        {
+          "course": "ECE 3056",
+          "type": "hard",
+          "min_grade": "D"
+        },
+        {
+          "course": "ECE 3057",
+          "type": "hard",
+          "min_grade": "D"
+        },
+        {
+          "course": "ECE 3058",
+          "type": "hard",
+          "min_grade": "D"
+        }
+      ]
+    },
+    "requirements_fulfilled": [
+      "Distributed System & Software Design and Systems & Architecture Thread \u2014 Advanced Systems & Architecture (1 class in CS 4210 or CS 4220 or ECE 4100)"
+    ],
+    "description": "Modern computer architecture, including branch prediction, out-of-order execution, cache optimizations, multi-level caches, memory and storage, cache coherence and consistency, and multi- and many-core processors. The same syllabus covers CS 4290, ECE 4100, CS 6290, and ECE 6100. Catalog text: comprehensive coverage of architecture and system issues in high-performance workstation/PC design, with emphasis on quantitative evaluation. Credit is not allowed for both ECE 4100 and any of ECE 6100, CS 4290, or CS 6290.",
+    "skills_developed": [
+      "Understand the design and operation of modern in-order and out-of-order processors.",
+      "Use benchmarking and simulation to choose design and parameters for key parts of the processor core.",
+      "Understand and model on-chip interconnects, cache coherence, and consistency models.",
+      "Make decisions about how processor hardware interacts with system and application software."
+    ],
+    "topics_covered": [
+      "branch prediction",
+      "out-of-order instruction execution",
+      "cache optimizations",
+      "multi-level caches",
+      "memory and storage",
+      "cache coherence and consistency",
+      "multi- and many-core processors"
+    ],
+    "exam_structure": "1 midterm (20%) and 1 final (30%). The final includes questions on midterm material. No make-up exams unless the Dean of Students advises it.",
+    "grading_breakdown": "Projects 50% and exams 50%. Project 0 is 5%, project 1 is 10%, project 2 is 15%, project 3 is 20%. Midterm 20%, final 30%. Planned letter cutoffs are A at 90% and above, B at 80% and above, and so on. A curve is possible: if that scale produces too few As, thresholds may be lowered or some sort of curve used. No required textbook.",
+    "assignment_load": "Four projects, each larger than the previous one. Completed individually or in teams of two, as each assignment specifies. The syllabus allows partners only on projects 2 and 3.",
+    "has_lab": {
+      "value": "no",
+      "note": "Syllabus describes projects and exams. No lab component is stated."
+    },
+    "average_gpa": {
+      "value": 3.17,
+      "scale": 4.0,
+      "sections_tracked": 50,
+      "note": "Aggregate across sections, not per instructor."
+    },
+    "workload_tag": "balanced",
+    "notable_features": "Projects and exams are each 50%, so the tag is balanced. One syllabus covers the cross-listed set CS 4290 / ECE 4100 / CS 6290 / ECE 6100, all listed as 3 credits. Catalog attribute: TCES. Credit is not allowed for both ECE 4100 and any of ECE 6100, CS 4290, or CS 6290. Lecture attendance is not tracked and is not part of the grade. One of three courses that can satisfy Advanced Systems & Architecture.",
+    "source": "GT Course Information popup; joint CS 4290 / ECE 4100 / CS 6290 / ECE 6100 syllabus"
+  }
+]

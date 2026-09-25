@@ -15,16 +15,20 @@ def _get_model() -> SentenceTransformer:
     return _model
 
 
-def retrieve(query: str, top_k: int = TOP_K) -> list[dict]:
+def retrieve(query: str, top_k: int = TOP_K, where: dict | None = None) -> list[dict]:
     collection = get_chroma_collection()
     model = _get_model()
     query_embedding = model.encode([query]).tolist()
 
-    results = collection.query(
-        query_embeddings=query_embedding,
-        n_results=top_k,
-        include=["documents", "metadatas", "distances"],
-    )
+    query_kwargs = {
+        "query_embeddings": query_embedding,
+        "n_results": top_k,
+        "include": ["documents", "metadatas", "distances"],
+    }
+    if where:
+        query_kwargs["where"] = where
+
+    results = collection.query(**query_kwargs)
 
     chunks = []
     for doc, meta, distance in zip(
@@ -38,6 +42,11 @@ def retrieve(query: str, top_k: int = TOP_K) -> list[dict]:
                 "source": meta["source"],
                 "chunk_index": meta["chunk_index"],
                 "distance": distance,
+                "requirements_fulfilled": meta.get("requirements_fulfilled", ""),
+                "skills_developed": meta.get("skills_developed", ""),
+                "prerequisites": meta.get("prerequisites", ""),
+                "exam_structure": meta.get("exam_structure", ""),
+                "average_gpa": meta.get("average_gpa"),
             }
         )
     return chunks

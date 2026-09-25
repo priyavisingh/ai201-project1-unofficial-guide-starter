@@ -1,0 +1,156 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "question": "Does CS 3251 have a lab, and what's its exam structure?",
+      "retrieved": [
+        "CS 3300",
+        "CS 3210",
+        "CS 4605",
+        "CS 3220",
+        "CS 3251"
+      ],
+      "recall_at_1": false,
+      "recall_at_5": true,
+      "fact_coverage": 1.0,
+      "facts_found": [
+        "no lab",
+        "midterm 25%",
+        "programming quiz 12%",
+        "final 32%"
+      ],
+      "facts_missing": []
+    },
+    {
+      "id": 2,
+      "question": "What's the average GPA for CS 3510 and how are grades structured?",
+      "retrieved": [
+        "CS 3510",
+        "CS 3210",
+        "CS 3251",
+        "ECE 4100",
+        "CS 4210"
+      ],
+      "recall_at_1": true,
+      "recall_at_5": true,
+      "fact_coverage": 1.0,
+      "facts_found": [
+        "3.25",
+        "four exams"
+      ],
+      "facts_missing": []
+    },
+    {
+      "id": 3,
+      "question": "I don't want to take any exams. Does CS 3300 have a midterm or final?",
+      "retrieved": [
+        "CS 3210",
+        "ECE 4100",
+        "CS 3300",
+        "CS 3251",
+        "CS 4210"
+      ],
+      "recall_at_1": false,
+      "recall_at_5": true,
+      "fact_coverage": 1.0,
+      "facts_found": [
+        "no midterm or final",
+        "quizzes"
+      ],
+      "facts_missing": []
+    },
+    {
+      "id": 4,
+      "question": "Which course should I take to learn about operating systems design?",
+      "retrieved": [
+        "CS 3210",
+        "CS 4210",
+        "CS 2340",
+        "ECE 4100",
+        "CS 3300"
+      ],
+      "recall_at_1": true,
+      "recall_at_5": true,
+      "fact_coverage": 1.0,
+      "facts_found": [
+        "CS 3210"
+      ],
+      "facts_missing": []
+    },
+    {
+      "id": 5,
+      "question": "Which course teaches computer networking?",
+      "retrieved": [
+        "CS 3251",
+        "CS 3210",
+        "CS 4210",
+        "CS 4605",
+        "ECE 4122"
+      ],
+      "recall_at_1": true,
+      "recall_at_5": true,
+      "fact_coverage": 1.0,
+      "facts_found": [
+        "CS 3251"
+      ],
+      "facts_missing": []
+    },
+    {
+      "id": 6,
+      "question": "I want to learn about caches and computer organization and architecture. Which course fits?",
+      "retrieved": [
+        "ECE 4100",
+        "CS 3210",
+        "CS 4210",
+        "CS 2340",
+        "CS 3251"
+      ],
+      "recall_at_1": true,
+      "recall_at_5": true,
+      "fact_coverage": 1.0,
+      "facts_found": [
+        "ECE 4100"
+      ],
+      "facts_missing": []
+    },
+    {
+      "id": 7,
+      "question": "Which courses involve building embedded or physical devices?",
+      "retrieved": [
+        "CS 4220",
+        "CS 3651",
+        "ECE 4180",
+        "CS 3210",
+        "CS 4605"
+      ],
+      "recall_at_1": null,
+      "recall_at_5": true,
+      "fact_coverage": null,
+      "facts_found": [],
+      "facts_missing": []
+    },
+    {
+      "id": 8,
+      "question": "I want a project-based Distributed Systems elective with no exams and a high average GPA. What are my options?",
+      "retrieved": [
+        "CS 4210",
+        "CS 3251",
+        "CS 3210",
+        "CS 3300",
+        "ECE 4122"
+      ],
+      "recall_at_1": null,
+      "recall_at_5": false,
+      "fact_coverage": null,
+      "facts_found": [],
+      "facts_missing": []
+    }
+  ],
+  "summary": {
+    "recall_at_1": 0.6666666666666666,
+    "recall_at_5": 0.875,
+    "mean_fact_coverage": 1.0,
+    "n_recall_at_1": 6,
+    "n_fact_coverage": 6
+  }
+}

@@ -10,13 +10,12 @@ from retrieve import retrieve
 
 load_dotenv()
 
-SYSTEM_PROMPT = """You are a Georgia Tech student guide assistant.
-Answer the user's question using ONLY the provided document excerpts.
-Do not use outside knowledge, assumptions, or general facts about universities.
-If the excerpts do not contain enough information, respond exactly with:
-"I don't have enough information on that in the collected professor reviews."
-Always mention which source file(s) support your answer.
-Keep answers concise and factual."""
+SYSTEM_PROMPT = """You are a personal Georgia Tech CompE course-planning assistant.
+Answer the user's question using ONLY the provided course records.
+Do not use outside knowledge or general facts about universities.
+If the records do not contain enough information, say you don't have that in the collected course records.
+Cite course codes. Keep answers concise and factual.
+Do not mention instructors."""
 
 
 def _format_context(chunks: list[dict]) -> str:
@@ -46,7 +45,7 @@ def generate_answer(question: str, chunks: list[dict]) -> str:
                 "content": (
                     f"Question: {question}\n\n"
                     f"Document excerpts:\n{context}\n\n"
-                    "Answer using only the excerpts above. Cite source file names."
+                    "Answer using only the course records above. Cite course codes."
                 ),
             },
         ],
@@ -71,7 +70,7 @@ def ask(question: str, top_k: int | None = None) -> dict:
 
 
 def main() -> None:
-    result = ask("What do students say about Frederic Faulkner teaching CS 1332?")
+    result = ask("Does CS 3251 have a lab, and what's its exam structure?")
     print("Answer:\n", result["answer"])
     print("\nSources:", ", ".join(result["sources"]))
 

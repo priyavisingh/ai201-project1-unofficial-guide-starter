@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 
 from config import CHUNK_OVERLAP, CHUNK_SIZE, CHUNKS_PATH
-from ingest import load_documents
+from ingest import load_courses, load_documents
 
 
 REVIEW_SPLIT = re.compile(r"(?=^Review — )", re.MULTILINE)
@@ -92,6 +92,74 @@ def chunk_document(doc: dict, chunk_size: int = CHUNK_SIZE, overlap: int = CHUNK
     return chunks
 
 
+def _as_text(value) -> str:
+    if value is None or value == "":
+        return "not specified"
+    if isinstance(value, list):
+        return " | ".join(str(item) for item in value)
+    if isinstance(value, dict):
+        return json.dumps(value, ensure_ascii=False)
+    return str(value)
+
+
+def _prereq_codes(course: dict) -> str:
+    items = course.get("prerequisites", {}).get("items", [])
+    codes = [item.get("course", "") for item in items if item.get("course")]
+    return " | ".join(codes) if codes else "not specified"
+
+
+def _gpa_value(course: dict) -> float:
+    gpa = course.get("average_gpa")
+    if isinstance(gpa, dict) and isinstance(gpa.get("value"), (int, float)):
+        return float(gpa["value"])
+    return -1.0
+
+
+def render_course(course: dict) -> str:
+    """One self-contained text block. requirements_fulfilled stays in metadata only, not in this text."""
+    gpa = course.get("average_gpa")
+    gpa_line = _as_text(gpa)
+    prereq_expr = ""
+    if isinstance(course.get("prerequisites"), dict):
+        prereq_expr = course["prerequisites"].get("expression", "")
+    lines = [
+        f"Course: {course['course_code']} — {course['title']}",
+        f"Credit hours: {course.get('credit_hours', 'not specified')}",
+        f"Skills developed: {_as_text(course.get('skills_developed'))}",
+        f"Topics covered: {_as_text(course.get('topics_covered'))}",
+        f"Prerequisites: {prereq_expr or _prereq_codes(course)}",
+        f"Exam structure: {_as_text(course.get('exam_structure'))}",
+        f"Average GPA: {gpa_line}",
+        f"Workload: {_as_text(course.get('workload_tag'))}",
+        f"Description: {_as_text(course.get('description'))}",
+        f"Grading breakdown: {_as_text(course.get('grading_breakdown'))}",
+        f"Assignment load: {_as_text(course.get('assignment_load'))}",
+        f"Lab: {_as_text(course.get('has_lab'))}",
+        f"Notable features: {_as_text(course.get('notable_features'))}",
+    ]
+    return "\n".join(lines)
+
+
+def chunk_courses(courses: list[dict] | None = None) -> list[dict]:
+    """One chunk per course so a retrieved hit is the whole record."""
+    courses = courses if courses is not None else load_courses()
+    chunks = []
+    for course in courses:
+        chunks.append(
+            {
+                "text": render_course(course),
+                "source": course["course_code"],
+                "chunk_index": 0,
+                "requirements_fulfilled": _as_text(course.get("requirements_fulfilled")),
+                "skills_developed": _as_text(course.get("skills_developed")),
+                "prerequisites": _prereq_codes(course),
+                "exam_structure": _as_text(course.get("exam_structure")),
+                "average_gpa": _gpa_value(course),
+            }
+        )
+    return chunks
+
+
 def chunk_all_documents(documents: list[dict] | None = None) -> list[dict]:
     documents = documents or load_documents()
     all_chunks = []
@@ -110,9 +178,9 @@ def load_chunks(path: Path = CHUNKS_PATH) -> list[dict]:
 
 
 def main() -> None:
-    chunks = chunk_all_documents()
+    chunks = chunk_courses()
     save_chunks(chunks)
-    print(f"Created {len(chunks)} chunks from {len(load_documents())} documents")
+    print(f"Created {len(chunks)} chunks from {len(load_courses())} courses")
     print("\n--- 5 sample chunks ---\n")
     for i, chunk in enumerate(chunks[:5], 1):
         print(f"[{i}] source={chunk['source']} index={chunk['chunk_index']}")

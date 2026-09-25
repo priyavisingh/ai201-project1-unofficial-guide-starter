@@ -3,10 +3,9 @@
 import chromadb
 from sentence_transformers import SentenceTransformer
 
-from chunk import chunk_all_documents, load_chunks, save_chunks
+from chunk import load_chunks, save_chunks
 from config import (
     CHROMA_DIR,
-    CHUNKS_PATH,
     COLLECTION_NAME,
     EMBEDDING_MODEL,
 )
@@ -24,15 +23,36 @@ def get_chroma_collection():
     )
 
 
+FILTER_FIELDS = (
+    "requirements_fulfilled",
+    "skills_developed",
+    "prerequisites",
+    "exam_structure",
+    "average_gpa",
+)
+
+
+def _metadata(chunk: dict) -> dict:
+    meta = {"source": chunk["source"], "chunk_index": chunk["chunk_index"]}
+    for field in FILTER_FIELDS:
+        value = chunk.get(field, "not specified")
+        if field == "average_gpa":
+            meta[field] = float(value) if isinstance(value, (int, float)) else -1.0
+        else:
+            meta[field] = str(value)
+    return meta
+
+
 def build_vector_store(chunks: list[dict] | None = None, reset: bool = True) -> int:
-    chunks = chunks or chunk_all_documents()
+    # Use the chunks already built. Do not chunk again.
+    chunks = chunks if chunks is not None else load_chunks()
     save_chunks(chunks)
 
     if reset and CHROMA_DIR.exists():
         client = chromadb.PersistentClient(path=str(CHROMA_DIR))
         try:
             client.delete_collection(COLLECTION_NAME)
-        except ValueError:
+        except Exception:
             pass
 
     collection = get_chroma_collection()
@@ -40,7 +60,7 @@ def build_vector_store(chunks: list[dict] | None = None, reset: bool = True) -> 
 
     ids = [f"{c['source']}_{c['chunk_index']}" for c in chunks]
     documents = [c["text"] for c in chunks]
-    metadatas = [{"source": c["source"], "chunk_index": c["chunk_index"]} for c in chunks]
+    metadatas = [_metadata(c) for c in chunks]
     embeddings = model.encode(documents, show_progress_bar=True).tolist()
 
     collection.add(

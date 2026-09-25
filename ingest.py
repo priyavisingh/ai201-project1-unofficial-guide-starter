@@ -1,9 +1,10 @@
 """Load and clean professor review documents from the documents/ folder."""
 
+import json
 import re
 from pathlib import Path
 
-from config import DOCUMENTS_DIR, RAW_DIR
+from config import COURSES_PATH, DOCUMENTS_DIR, RAW_DIR
 
 
 # Patterns for junk copied from Coursicle pages — stripped during cleaning, not kept.
@@ -67,15 +68,19 @@ def save_raw_documents(documents: list[dict], output_dir: Path = RAW_DIR) -> Non
         out_path.write_text(doc["text"], encoding="utf-8")
 
 
+def load_courses(path: Path = COURSES_PATH) -> list[dict]:
+    """Load one structured record per course from data/courses.json."""
+    courses = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(courses, list):
+        raise ValueError(f"{path} must be a JSON array of course objects")
+    return courses
+
+
 def main() -> None:
-    documents = load_documents()
-    save_raw_documents(documents)
-    print(f"Loaded {len(documents)} documents")
-    if documents:
-        print(f"\n--- Sample cleaned document: {documents[0]['source']} ---\n")
-        print(documents[0]["text"][:800])
-        if len(documents[0]["text"]) > 800:
-            print("...")
+    courses = load_courses()
+    print(f"Loaded {len(courses)} courses from {COURSES_PATH.name}")
+    if courses:
+        print(f"First course: {courses[0]['course_code']} — {courses[0]['title']}")
 
 
 if __name__ == "__main__":
